@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Poetry Prompts</title>
+<meta name="description" content="1,100 poetry prompts for the stage, the page, and the part you usually leave out.">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top">
+  <h1>Poetry Prompts</h1>
+  <p class="tag">For the stage, the page, and the part you usually leave out.</p>
+  <div class="controls">
+    <input id="q" type="search" placeholder="Search prompts or type a number…" autocomplete="off" aria-label="Search prompts">
+    <select id="sec" aria-label="Filter by section"><option value="">All sections</option></select>
+    <button id="rand" type="button" title="Random prompt from current results">Random</button>
+  </div>
+  <p id="count" class="count" aria-live="polite"></p>
+</header>
+<main id="list"></main>
+<p id="empty" class="empty" hidden>Nothing matches. Write the prompt you were looking for.</p>
+<footer>Tap a prompt to copy it. <a href="#" id="totop">Back to top</a></footer>
+<div id="toast" class="toast" hidden></div>
+<script src="prompts.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
