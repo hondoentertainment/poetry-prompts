@@ -129,6 +129,96 @@ window.PROMPTS = {
 "n": 26,
 "name": "Stage Turns & Twists",
 "blurb": "Built to land in a room. Plant it early, pay it off late."
+},
+{
+"n": 27,
+"name": "Seattle Rain & Gray Light",
+"blurb": "Nine months of drizzle and the light that gets through anyway."
+},
+{
+"n": 28,
+"name": "Open Mics & the Green Room",
+"blurb": "The sign-up sheet, the shaking hands, the three minutes that change a week."
+},
+{
+"n": 29,
+"name": "Inheritance & What Gets Passed Down",
+"blurb": "The heirlooms, the habits, and the temper you did not ask for."
+},
+{
+"n": 30,
+"name": "Anxiety, Insomnia & the 3 A.M. Mind",
+"blurb": "The ceiling, the replay, the brain that will not clock out."
+},
+{
+"n": 31,
+"name": "Softness as a Discipline",
+"blurb": "Tenderness is not the easy way. It is the brave way, practiced daily."
+},
+{
+"n": 32,
+"name": "Paying Attention: Birds, Moss & Small Weather",
+"blurb": "Tell me about the one wild thing you noticed today, and how it noticed you back."
+},
+{
+"n": 33,
+"name": "Wordplay, Puns & Linguistic Gymnastics",
+"blurb": "Make the language do a backflip, then land it on something true."
+},
+{
+"n": 34,
+"name": "Short Lines for Long Hurts",
+"blurb": "Small poems, sharp edges. Say it in fewer words than it took to feel it."
+},
+{
+"n": 35,
+"name": "Hope With Its Sleeves Rolled Up",
+"blurb": "Not wishful thinking. Hope that shows up, does the dishes, and stays."
+},
+{
+"n": 36,
+"name": "Habits, Vices & Starting Over",
+"blurb": "Day one, again. The thing you quit, the thing you didn't, and the counting."
+},
+{
+"n": 37,
+"name": "The Phone in Your Hand",
+"blurb": "The glowing rectangle, the feed, the group chat, and the person you are on airplane mode."
+},
+{
+"n": 38,
+"name": "Kitchens, Hunger & the Shared Table",
+"blurb": "What we cook, who we feed, and the hunger underneath the hunger."
+},
+{
+"n": 39,
+"name": "Mixtapes & Songs You Can't Hear Anymore",
+"blurb": "The track you skip, the chorus that ambushes you in a grocery store."
+},
+{
+"n": 40,
+"name": "Strangers, Neighbors & the Number 7 Bus",
+"blurb": "The people you share a sidewalk with and never learn the names of."
+},
+{
+"n": 41,
+"name": "Birthdays, Clocks & Getting Older",
+"blurb": "Candles, gray hairs, and the strange math of time passing."
+},
+{
+"n": 42,
+"name": "Anger & What It Protects",
+"blurb": "Rage is a guard dog. Write about what it is standing in front of."
+},
+{
+"n": 43,
+"name": "Games, Sports & the Art of Losing",
+"blurb": "Scoreboards, pickup games, and the beautiful practice of not winning."
+},
+{
+"n": 44,
+"name": "Ars Poetica: Writing About Writing",
+"blurb": "The notebook, the blank page, and why you keep doing this."
 }
 ],
 "prompts": [
@@ -5631,6 +5721,4506 @@ window.PROMPTS = {
 "id": 1100,
 "section": "Stage Turns & Twists",
 "text": "Write a closing poem for a show, the last piece of the night, that admits what you were afraid the audience would see, and thanks them for seeing it."
+},
+{
+"id": 1101,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a poem set entirely inside the ninety seconds the sun comes out over Puget Sound in February, and let everyone in the poem stop what they are doing."
+},
+{
+"id": 1102,
+"section": "Seattle Rain & Gray Light",
+"text": "List twelve kinds of Seattle rain the way other places name snow. Give the last kind your ex's name."
+},
+{
+"id": 1103,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a love poem to the gray that never once asks it to turn blue."
+},
+{
+"id": 1104,
+"section": "Seattle Rain & Gray Light",
+"text": "Describe the ferry ride to Bainbridge as a confession booth that charges a fare and floats."
+},
+{
+"id": 1105,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a poem in which moss slowly grows over a secret you buried in your backyard, and the moss is on your side."
+},
+{
+"id": 1106,
+"section": "Seattle Rain & Gray Light",
+"text": "Write the weather report for your own chest, using only the vocabulary of a KING 5 meteorologist."
+},
+{
+"id": 1107,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a poem about the first sunny Saturday in May, when the whole city takes its shirt off at once and nobody admits they were sad."
+},
+{
+"id": 1108,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a poem to the umbrella you refuse to carry because carrying it would mean admitting you live here."
+},
+{
+"id": 1109,
+"section": "Seattle Rain & Gray Light",
+"text": "Write about a heron standing in the shallows at Green Lake like it is waiting for an apology that will never come."
+},
+{
+"id": 1110,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a poem that takes place under a bus shelter on Aurora at 11 p.m., where three strangers share the only dry square foot."
+},
+{
+"id": 1111,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a poem where Mount Rainier \"comes out\" and you take it personally, as if it showed up just for you."
+},
+{
+"id": 1112,
+"section": "Seattle Rain & Gray Light",
+"text": "Personify Seasonal Affective Disorder as a roommate who pays half the rent and never does the dishes."
+},
+{
+"id": 1113,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a poem about the specific smell of wet cedar and the memory it unlocks without your permission."
+},
+{
+"id": 1114,
+"section": "Seattle Rain & Gray Light",
+"text": "Write about the sound of tires on wet pavement as the soundtrack to the drive home after a fight."
+},
+{
+"id": 1115,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a poem in which every stanza ends with a different forecast, and the last forecast is \"clearing.\""
+},
+{
+"id": 1116,
+"section": "Seattle Rain & Gray Light",
+"text": "Write about a winter so dark you start setting alarms to look at a lamp. Make the lamp the hero."
+},
+{
+"id": 1117,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a poem to the slugs on your porch steps at night, who are slow and soft and still make it across."
+},
+{
+"id": 1118,
+"section": "Seattle Rain & Gray Light",
+"text": "Write the sky over Elliott Bay at 4:30 p.m. in December as a curtain closing on a show that ended too early."
+},
+{
+"id": 1119,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a poem about a puddle that reflects a version of you who stayed somewhere else."
+},
+{
+"id": 1120,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a poem where the rain is a metronome and you are trying to stay on beat while saying something hard."
+},
+{
+"id": 1121,
+"section": "Seattle Rain & Gray Light",
+"text": "Write about a gray hoodie you have worn every day for a month, and what it has heard."
+},
+{
+"id": 1122,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a poem about the moment the streetlights come on at 3:45 p.m. and you realize the day is over before you started it."
+},
+{
+"id": 1123,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a poem in which fog erases the Space Needle one floor at a time, and you list what you would erase about yourself in the same order."
+},
+{
+"id": 1124,
+"section": "Seattle Rain & Gray Light",
+"text": "Describe the inside of a steamed-up car window and the word you finger-wrote on it once."
+},
+{
+"id": 1125,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a poem in which the Pacific Northwest is a person who is polite to your face and never invites you over."
+},
+{
+"id": 1126,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a poem about a rainbow you saw alone and had no one to text about."
+},
+{
+"id": 1127,
+"section": "Seattle Rain & Gray Light",
+"text": "Write about drizzle as a kind of honesty: it never pretends to be a storm."
+},
+{
+"id": 1128,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a poem about the first time you saw the Olympics turn pink at sunset and felt small in the right way."
+},
+{
+"id": 1129,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a poem about a sunbreak that arrives during a funeral and how nobody knows where to look."
+},
+{
+"id": 1130,
+"section": "Seattle Rain & Gray Light",
+"text": "Write about the rain gutters overflowing as the house's way of crying when you will not."
+},
+{
+"id": 1131,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a poem about a picnic that gets rained out and becomes the best afternoon of the year inside a car."
+},
+{
+"id": 1132,
+"section": "Seattle Rain & Gray Light",
+"text": "Write about the dampness that lives in your apartment walls like a memory you cannot dry out."
+},
+{
+"id": 1133,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a poem where the word \"overcast\" is a coat you put on every morning, and one day you leave it home."
+},
+{
+"id": 1134,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a poem about a crow on a power line in the rain, holding still as if it has decided to stop running."
+},
+{
+"id": 1135,
+"section": "Seattle Rain & Gray Light",
+"text": "Write about a gray day that was actually the happiest day of your life, and how you almost missed it because it looked like every other day."
+},
+{
+"id": 1136,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a poem in which the clouds are an audience that never claps but never leaves."
+},
+{
+"id": 1137,
+"section": "Seattle Rain & Gray Light",
+"text": "Write about the exact moment rain becomes too heavy to pretend it is not raining."
+},
+{
+"id": 1138,
+"section": "Seattle Rain & Gray Light",
+"text": "Write about Lake Union at dusk, seaplanes landing like apologies coming in one at a time."
+},
+{
+"id": 1139,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a poem about wet socks as a metaphor for a mistake you carry all day."
+},
+{
+"id": 1140,
+"section": "Seattle Rain & Gray Light",
+"text": "Write about the light in late August that makes everyone in Seattle forgive the whole year."
+},
+{
+"id": 1141,
+"section": "Seattle Rain & Gray Light",
+"text": "Write about the first rain after a dry summer, the smell of it, and the person you were the last time you noticed petrichor."
+},
+{
+"id": 1142,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a poem where the weather is the only honest character and everyone else keeps saying \"it's fine.\""
+},
+{
+"id": 1143,
+"section": "Seattle Rain & Gray Light",
+"text": "Write about a raincoat zipper that sticks at the exact moment you need to leave quickly."
+},
+{
+"id": 1144,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a poem set inside the Pike Place Market on a Tuesday in the rain, when the tourists are gone and the city belongs to the people who stay."
+},
+{
+"id": 1145,
+"section": "Seattle Rain & Gray Light",
+"text": "Write about the gray between two clouds as the place where you keep the things you are not ready to name."
+},
+{
+"id": 1146,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a poem in which you try to explain Seattle's sky to someone from Phoenix, and fail beautifully."
+},
+{
+"id": 1147,
+"section": "Seattle Rain & Gray Light",
+"text": "Write about the slow drip from a leaf after the rain has stopped, as a sentence that refuses to end."
+},
+{
+"id": 1148,
+"section": "Seattle Rain & Gray Light",
+"text": "Write about a storm knocking the power out, and the candlelit hour that made your family talk."
+},
+{
+"id": 1149,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a closing poem in which the rain stops mid-sentence and you have to finish the thought in silence."
+},
+{
+"id": 1150,
+"section": "Seattle Rain & Gray Light",
+"text": "Write a poem about Seattle in the snow, the one day a year the city forgets how to drive and remembers how to play."
+},
+{
+"id": 1151,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem about the sign-up sheet at an open mic, and the name you almost wrote instead of your own."
+},
+{
+"id": 1152,
+"section": "Open Mics & the Green Room",
+"text": "Write the inner monologue of the poet who goes on right before you, and make them more scared than you are."
+},
+{
+"id": 1153,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem in which the microphone stand is too tall, and adjusting it becomes a confession."
+},
+{
+"id": 1154,
+"section": "Open Mics & the Green Room",
+"text": "Write about the coffee shop open mic where the espresso machine screamed during your best line, and why you kept going."
+},
+{
+"id": 1155,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem to the one person who snapped at the right moment and changed the entire night."
+},
+{
+"id": 1156,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem about the three-minute time limit as a contract you keep breaking with yourself."
+},
+{
+"id": 1157,
+"section": "Open Mics & the Green Room",
+"text": "Write about the green room as a waiting room for the version of you that has not happened yet."
+},
+{
+"id": 1158,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem about forgetting your words onstage, and what your body did in the silence instead."
+},
+{
+"id": 1159,
+"section": "Open Mics & the Green Room",
+"text": "Write about the host who mispronounced your name and the poem you wrote correcting them gently."
+},
+{
+"id": 1160,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem in the voice of the stage light, who sees every poet sweat and loves each one anyway."
+},
+{
+"id": 1161,
+"section": "Open Mics & the Green Room",
+"text": "Write about the first poem you ever read aloud, from the paper shaking in your hand."
+},
+{
+"id": 1162,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem about the drive home after a slam where you placed fourth, and what fourth taught you."
+},
+{
+"id": 1163,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem for the regular who reads the same poem every week, and how you finally heard it."
+},
+{
+"id": 1164,
+"section": "Open Mics & the Green Room",
+"text": "Write about a slam judge holding up a 7.2 and the entire history of your self-worth riding on one decimal."
+},
+{
+"id": 1165,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem that is an apology to the audience for the poem you read last month."
+},
+{
+"id": 1166,
+"section": "Open Mics & the Green Room",
+"text": "Write about the poet you are jealous of, and let the jealousy turn into gratitude by the final line."
+},
+{
+"id": 1167,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem about the notebook you carry to open mics, describing every coffee stain as a different city."
+},
+{
+"id": 1168,
+"section": "Open Mics & the Green Room",
+"text": "Write about the feeling of stepping off stage, before the applause has finished, when you are nobody yet."
+},
+{
+"id": 1169,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem about the open mic in a bar where no one was listening, and the one bartender who was."
+},
+{
+"id": 1170,
+"section": "Open Mics & the Green Room",
+"text": "Write about rehearsing a poem in your car until the person in the next lane at the red light starts nodding."
+},
+{
+"id": 1171,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem in which the audience is a single empty chair, and you perform for it anyway."
+},
+{
+"id": 1172,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem about a feature poet who made you want to quit and then made you want to write."
+},
+{
+"id": 1173,
+"section": "Open Mics & the Green Room",
+"text": "Write about the moment you realized you were performing your pain instead of telling it."
+},
+{
+"id": 1174,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem in which you list every poem you have abandoned halfway through a performance."
+},
+{
+"id": 1175,
+"section": "Open Mics & the Green Room",
+"text": "Write about the poet who hugged you after your set and said, \"Me too,\" and nothing else."
+},
+{
+"id": 1176,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem about a slam team practice in someone's living room, with a cat that keeps walking across the \"stage.\""
+},
+{
+"id": 1177,
+"section": "Open Mics & the Green Room",
+"text": "Write about the clipboard host who whispered \"one minute\" and what you decided to cut."
+},
+{
+"id": 1178,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem to your favorite performance poet as if you are the opening act they never knew they had."
+},
+{
+"id": 1179,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem about memorizing a poem in the shower and losing the third stanza down the drain."
+},
+{
+"id": 1180,
+"section": "Open Mics & the Green Room",
+"text": "Write about the post-show diner where every poet orders fries and finally says what they meant."
+},
+{
+"id": 1181,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem in which the timer goes off in the middle of your most important line, and you finish anyway."
+},
+{
+"id": 1182,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem about bombing, beat by beat, and what you did with your hands."
+},
+{
+"id": 1183,
+"section": "Open Mics & the Green Room",
+"text": "Write about the poet who walked out during your piece, and the story you invented for why."
+},
+{
+"id": 1184,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem about the line you change every time you perform because it is never quite true."
+},
+{
+"id": 1185,
+"section": "Open Mics & the Green Room",
+"text": "Write about the first time a stranger quoted your own poem back to you."
+},
+{
+"id": 1186,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem about a tip jar, and the five-dollar bill someone left with a note that said \"keep going.\""
+},
+{
+"id": 1187,
+"section": "Open Mics & the Green Room",
+"text": "Write about the hush before a poem starts, describing it as weather."
+},
+{
+"id": 1188,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem in which you introduce your poem for longer than the poem itself, and realize the intro was the poem."
+},
+{
+"id": 1189,
+"section": "Open Mics & the Green Room",
+"text": "Write about the open mic you skipped because you were scared, and the person who read your topic that night."
+},
+{
+"id": 1190,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem about the house rules of an open mic, rewritten as rules for your own life."
+},
+{
+"id": 1191,
+"section": "Open Mics & the Green Room",
+"text": "Write about the slam scoreboard as a mirror that only shows numbers."
+},
+{
+"id": 1192,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem about recording your set on your phone and hearing your own voice for the first time."
+},
+{
+"id": 1193,
+"section": "Open Mics & the Green Room",
+"text": "Write about the poet who taught you to breathe between lines, and the first time you took that breath."
+},
+{
+"id": 1194,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem about the trembling knee no one in the audience could see."
+},
+{
+"id": 1195,
+"section": "Open Mics & the Green Room",
+"text": "Write about an open mic where a teenager read for the first time, and you remembered being them."
+},
+{
+"id": 1196,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem in which the green room couch has heard ten thousand nervous jokes and wants to tell you the best one."
+},
+{
+"id": 1197,
+"section": "Open Mics & the Green Room",
+"text": "Write about the setlist you wrote on your hand and the line that smudged."
+},
+{
+"id": 1198,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem about the moment the crowd laughed where you did not expect them to, and how you decided to let them."
+},
+{
+"id": 1199,
+"section": "Open Mics & the Green Room",
+"text": "Write about the last open mic before you moved away, and the poem you read to say goodbye without saying goodbye."
+},
+{
+"id": 1200,
+"section": "Open Mics & the Green Room",
+"text": "Write a poem for the empty stage after everyone has left, when the mic is still warm."
+},
+{
+"id": 1201,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write a poem about your father's hands showing up at the end of your own wrists."
+},
+{
+"id": 1202,
+"section": "Inheritance & What Gets Passed Down",
+"text": "List everything you inherited that was not in a will: a laugh, a flinch, a way of folding towels."
+},
+{
+"id": 1203,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write a poem about a family recipe that no one wrote down and everyone makes differently."
+},
+{
+"id": 1204,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write about a watch, ring, or tool that was handed to you, and the story you were not told about it."
+},
+{
+"id": 1205,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write a poem about a family silence that has been passed down for three generations like a serving dish."
+},
+{
+"id": 1206,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write about the moment you heard your mother's voice come out of your mouth during an argument."
+},
+{
+"id": 1207,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write a poem about a last name, and the people who carried it before you got it."
+},
+{
+"id": 1208,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write about a box in the attic that no one opens and everyone knows is there."
+},
+{
+"id": 1209,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write a poem in which a family trait is described as a stray dog that follows each generation home."
+},
+{
+"id": 1210,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write about your grandfather's coat that still fits you, and what the pockets still hold."
+},
+{
+"id": 1211,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write a poem about a family story you have heard so many times you are not sure it is true."
+},
+{
+"id": 1212,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write about the temper you inherited, and the first time you chose not to use it."
+},
+{
+"id": 1213,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write a poem to a great-grandparent you never met, asking them which parts of you are theirs."
+},
+{
+"id": 1214,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write about the family dog who outlived three marriages and was the only one everyone agreed on."
+},
+{
+"id": 1215,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write a poem about a cursed object in your family that everyone is afraid to throw away."
+},
+{
+"id": 1216,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write about the hereditary illness on the medical form and the box you check with a shaking pen."
+},
+{
+"id": 1217,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write a poem about the family business you were supposed to take over and did not."
+},
+{
+"id": 1218,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write about the accent your parents worked hard to lose, and the one word that still slips out."
+},
+{
+"id": 1219,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write a poem in which you inventory your bad habits and trace each one back to its original owner."
+},
+{
+"id": 1220,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write about the pocketknife you received at twelve and the lesson that came with it."
+},
+{
+"id": 1221,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write a poem about an heirloom that broke in your care, and the phone call you had to make."
+},
+{
+"id": 1222,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write about the family Bible, or family album, with handwriting in the margins no one can read."
+},
+{
+"id": 1223,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write a poem about the inheritance of fear: the dog someone was bitten by, now every dog you meet."
+},
+{
+"id": 1224,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write about the song your family sings at every gathering, and the verse no one remembers."
+},
+{
+"id": 1225,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write a poem in which you return something you inherited to the dead person who owned it."
+},
+{
+"id": 1226,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write about the house your family lost and the key someone still keeps on a ring."
+},
+{
+"id": 1227,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write a poem about the nose, chin, or eyes you got from someone you do not speak to."
+},
+{
+"id": 1228,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write about the way your family argues, scored like a piece of music."
+},
+{
+"id": 1229,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write a poem about the money that was or was not left, and the wound it opened."
+},
+{
+"id": 1230,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write about a skill that skipped you: the gardener grandmother, the singing uncle."
+},
+{
+"id": 1231,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write a poem about the faith you inherited and the parts you put back on the shelf."
+},
+{
+"id": 1232,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write about the drinking problem in your family tree, and the branch you are trying to grow differently."
+},
+{
+"id": 1233,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write a poem about a quilt made from the clothes of people who are gone."
+},
+{
+"id": 1234,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write about the name you will or will not pass on, and why."
+},
+{
+"id": 1235,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write a poem in the form of a will, leaving your worst habits to no one."
+},
+{
+"id": 1236,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write about a family photo where someone has been cut out with scissors."
+},
+{
+"id": 1237,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write a poem about learning to shave from a YouTube video because no one was there to teach you."
+},
+{
+"id": 1238,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write about the story your family tells about you, and the one you would tell instead."
+},
+{
+"id": 1239,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write a poem in which the family tree is an actual tree, and you climb it to the branch that broke."
+},
+{
+"id": 1240,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write about the house rules from your childhood that you still follow alone in your apartment."
+},
+{
+"id": 1241,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write a poem about a phrase your grandparent used that you have never heard anyone else say."
+},
+{
+"id": 1242,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write about the moment you realized your parents were also someone's children, still waiting for approval."
+},
+{
+"id": 1243,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write a poem about inheriting a grudge against a cousin you have never met."
+},
+{
+"id": 1244,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write about the furniture that has moved with your family across four houses and three states."
+},
+{
+"id": 1245,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write a poem about the hands that taught you to fish, cook, fight, or pray, and which lesson stuck."
+},
+{
+"id": 1246,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write about breaking a family cycle as a quiet act no one notices at dinner."
+},
+{
+"id": 1247,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write a poem in which you are the ancestor, writing to the great-grandchild who will find this poem."
+},
+{
+"id": 1248,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write about the scar your father has and the story he tells about it versus the story he does not."
+},
+{
+"id": 1249,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write a poem about what you hope stops with you, and what you hope never does."
+},
+{
+"id": 1250,
+"section": "Inheritance & What Gets Passed Down",
+"text": "Write a poem titled \"Estate Sale,\" in which strangers pick through your family's history at a dollar an item."
+},
+{
+"id": 1251,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write a poem that takes place between 3:00 and 3:17 a.m., one stanza per minute."
+},
+{
+"id": 1252,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Personify your anxiety as a coworker who CCs you on every email from 2014."
+},
+{
+"id": 1253,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write about the conversation you replay in bed, and let the other person finally say something different."
+},
+{
+"id": 1254,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write a poem in which you count sheep and each sheep is a thing you forgot to do."
+},
+{
+"id": 1255,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write about the glow of your phone at 2 a.m. as a campfire no one else is sitting around."
+},
+{
+"id": 1256,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write a poem in which your heartbeat is too loud in the pillow, and you try to translate it."
+},
+{
+"id": 1257,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write about the \"what if\" list your mind makes at night, and answer only the last one."
+},
+{
+"id": 1258,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write a poem about the ceiling fan as the only thing in the room that has never been nervous."
+},
+{
+"id": 1259,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write about the panic attack in the grocery store aisle, naming every product on the shelf you stared at to stay present."
+},
+{
+"id": 1260,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write a poem in which your anxiety packs a suitcase for a trip you are not taking."
+},
+{
+"id": 1261,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write about the 5-4-3-2-1 grounding technique as a poem: five things you see, four you touch, and so on."
+},
+{
+"id": 1262,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write a poem about lying awake next to someone who is sleeping easily, and how it feels like a foreign country."
+},
+{
+"id": 1263,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write about the email you have not opened for three days and the size it has grown in your mind."
+},
+{
+"id": 1264,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write a poem in which insomnia is a night-shift DJ taking requests only from your regrets."
+},
+{
+"id": 1265,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write about the sound of the refrigerator humming at 4 a.m. like it is the only one who stayed up with you."
+},
+{
+"id": 1266,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write a poem about overthinking a text with a single \"k\" in it."
+},
+{
+"id": 1267,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write about your anxiety as a smoke detector that goes off every time you make toast."
+},
+{
+"id": 1268,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write a poem in which you write a letter to your nervous system, thanking it for trying so hard."
+},
+{
+"id": 1269,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write about the shower thought that turned into a spiral, and the towel that brought you back."
+},
+{
+"id": 1270,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write a poem about the specific dread of Sunday night."
+},
+{
+"id": 1271,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write a poem in which the dark in your bedroom is a lake, and you have to swim to the light switch."
+},
+{
+"id": 1272,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write about the medication you started, and the first morning you noticed the quiet."
+},
+{
+"id": 1273,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write a poem about the people you imagine judging you, and give each one a name and a sandwich order."
+},
+{
+"id": 1274,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write about sleep as a train you keep missing by thirty seconds."
+},
+{
+"id": 1275,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write a poem in which you argue with your 3 a.m. self and lose, then win at 7 a.m."
+},
+{
+"id": 1276,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write about a sleepless night in a hotel room in a city where you know no one."
+},
+{
+"id": 1277,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write a poem about the moment the birds start singing and you realize you have not slept."
+},
+{
+"id": 1278,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write about anxiety in your body: the jaw, the shoulders, the hands, mapped like a city."
+},
+{
+"id": 1279,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write a poem about the breathing exercise you learned in therapy, with each line one breath long."
+},
+{
+"id": 1280,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write about the dread of a phone ringing from an unknown number."
+},
+{
+"id": 1281,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write a poem in which your worry is a dog that needs to be walked, so you take it outside."
+},
+{
+"id": 1282,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write about the night you finally slept nine hours and woke up suspicious."
+},
+{
+"id": 1283,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write a poem about the version of you who is calm, and where they live."
+},
+{
+"id": 1284,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write about catastrophizing as a movie trailer for a film that never comes out."
+},
+{
+"id": 1285,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write a poem in which you list the reasons you are awake, then cross out every one that is not yours to carry."
+},
+{
+"id": 1286,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write about the 3 a.m. snack eaten standing in the light of the open fridge."
+},
+{
+"id": 1287,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write a poem to the friend who answers your texts at 2 a.m. without asking why."
+},
+{
+"id": 1288,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write about the exhaustion that sleep does not fix."
+},
+{
+"id": 1289,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write a poem in which you try to fall asleep by imagining your childhood bedroom in perfect detail."
+},
+{
+"id": 1290,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write about the racing heart before a doctor's appointment, measured in waiting room magazines."
+},
+{
+"id": 1291,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write a poem about the moment you said \"I have anxiety\" out loud to someone for the first time."
+},
+{
+"id": 1292,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write about the nightlight you still keep on, and stop apologizing for it."
+},
+{
+"id": 1293,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write a poem in which your mind is a browser with forty-seven tabs open, and you close them one at a time."
+},
+{
+"id": 1294,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write about the kindest thing someone said to you during a panic attack."
+},
+{
+"id": 1295,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write a poem about a sleepless night that produced the best poem you ever wrote."
+},
+{
+"id": 1296,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write about the weight of a weighted blanket as a hug from someone who will not ask questions."
+},
+{
+"id": 1297,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write a poem in which the word \"relax\" is said to you and you describe exactly what happens in your body."
+},
+{
+"id": 1298,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write about the nights you were not afraid, and why you remember so few of them."
+},
+{
+"id": 1299,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write a lullaby for your adult self, with no promises in it that you cannot keep."
+},
+{
+"id": 1300,
+"section": "Anxiety, Insomnia & the 3 A.M. Mind",
+"text": "Write a poem in which insomnia finally ends, not with sleep, but with you getting up to make toast and forgiving the night."
+},
+{
+"id": 1301,
+"section": "Softness as a Discipline",
+"text": "Write a poem about the hardest soft thing you have ever done."
+},
+{
+"id": 1302,
+"section": "Softness as a Discipline",
+"text": "Write about choosing to stay gentle with someone who did not earn it, and what it cost you."
+},
+{
+"id": 1303,
+"section": "Softness as a Discipline",
+"text": "Write a poem in which tenderness is a muscle, and describe your workout routine."
+},
+{
+"id": 1304,
+"section": "Softness as a Discipline",
+"text": "Write a poem about crying in public and refusing to say \"sorry\" afterward."
+},
+{
+"id": 1305,
+"section": "Softness as a Discipline",
+"text": "Write about the first time you let someone see you without your armor, item by item."
+},
+{
+"id": 1306,
+"section": "Softness as a Discipline",
+"text": "Write a poem about holding a baby bird, a friend's newborn, or an old dog, and what your hands learned."
+},
+{
+"id": 1307,
+"section": "Softness as a Discipline",
+"text": "Write a poem in which you are kind to the mirror for one full minute, and record everything you say."
+},
+{
+"id": 1308,
+"section": "Softness as a Discipline",
+"text": "Write about softness as resistance in a world that rewards hardness."
+},
+{
+"id": 1309,
+"section": "Softness as a Discipline",
+"text": "Write a poem about a hug that went on two seconds longer than either of you expected."
+},
+{
+"id": 1310,
+"section": "Softness as a Discipline",
+"text": "Write about the queer joy, or any joy, you had to fight to be allowed to feel."
+},
+{
+"id": 1311,
+"section": "Softness as a Discipline",
+"text": "Write a poem about the word \"gentle\" and every time someone used it as an insult."
+},
+{
+"id": 1312,
+"section": "Softness as a Discipline",
+"text": "Write about forgiving yourself for something small first, as practice for the big thing."
+},
+{
+"id": 1313,
+"section": "Softness as a Discipline",
+"text": "Write a poem about watering a plant you were sure you had killed."
+},
+{
+"id": 1314,
+"section": "Softness as a Discipline",
+"text": "Write about the body you have been at war with, and the first day of the ceasefire."
+},
+{
+"id": 1315,
+"section": "Softness as a Discipline",
+"text": "Write a poem about the tenderness of strangers: the bus driver who waited, the cashier who noticed."
+},
+{
+"id": 1316,
+"section": "Softness as a Discipline",
+"text": "Write about holding a door for someone who does not say thank you and holding it anyway."
+},
+{
+"id": 1317,
+"section": "Softness as a Discipline",
+"text": "Write a poem in which you rewrite an insult you received as a love letter, line by line."
+},
+{
+"id": 1318,
+"section": "Softness as a Discipline",
+"text": "Write about the soft voice you use with animals, and what would happen if you used it with yourself."
+},
+{
+"id": 1319,
+"section": "Softness as a Discipline",
+"text": "Write a poem about taking your own temperature, making yourself tea, and being your own caretaker."
+},
+{
+"id": 1320,
+"section": "Softness as a Discipline",
+"text": "Write about a moment you chose to apologize first even though you were mostly right."
+},
+{
+"id": 1321,
+"section": "Softness as a Discipline",
+"text": "Write a poem in which you list every soft thing you own: blanket, socks, the inside of your elbow."
+},
+{
+"id": 1322,
+"section": "Softness as a Discipline",
+"text": "Write about the courage it takes to say \"I need help\" in a room full of people who seem fine."
+},
+{
+"id": 1323,
+"section": "Softness as a Discipline",
+"text": "Write a poem about the tenderness of hands washing dishes for someone who is grieving."
+},
+{
+"id": 1324,
+"section": "Softness as a Discipline",
+"text": "Write about the gentlest thing you have seen a man do."
+},
+{
+"id": 1325,
+"section": "Softness as a Discipline",
+"text": "Write a poem in which kindness is a radical act performed in a parking lot."
+},
+{
+"id": 1326,
+"section": "Softness as a Discipline",
+"text": "Write about a time you held space for someone's anger without making it about you."
+},
+{
+"id": 1327,
+"section": "Softness as a Discipline",
+"text": "Write a poem about the soft animal of your body, but give the animal a specific species and name."
+},
+{
+"id": 1328,
+"section": "Softness as a Discipline",
+"text": "Write about the day you stopped calling yourself \"too sensitive.\""
+},
+{
+"id": 1329,
+"section": "Softness as a Discipline",
+"text": "Write a poem in which you are a lighthouse that refuses to become a wall."
+},
+{
+"id": 1330,
+"section": "Softness as a Discipline",
+"text": "Write about tenderness after violence: the first time someone touched you and it was only kind."
+},
+{
+"id": 1331,
+"section": "Softness as a Discipline",
+"text": "Write a poem about a love that is quiet, steady, and never needed to be a fireworks show."
+},
+{
+"id": 1332,
+"section": "Softness as a Discipline",
+"text": "Write about softness that held a family together when no one else would."
+},
+{
+"id": 1333,
+"section": "Softness as a Discipline",
+"text": "Write a poem in which you thank your own heart for continuing to open after every door was slammed."
+},
+{
+"id": 1334,
+"section": "Softness as a Discipline",
+"text": "Write about learning to receive a compliment without deflecting it, and write the compliment."
+},
+{
+"id": 1335,
+"section": "Softness as a Discipline",
+"text": "Write a poem about the tender way your grandmother peeled an orange for you."
+},
+{
+"id": 1336,
+"section": "Softness as a Discipline",
+"text": "Write about being gentle with your younger self in a memory you usually skip."
+},
+{
+"id": 1337,
+"section": "Softness as a Discipline",
+"text": "Write a poem in which gentleness is a language you are learning late, conjugating its verbs."
+},
+{
+"id": 1338,
+"section": "Softness as a Discipline",
+"text": "Write about a friend's hand on your back at a funeral, and how it was the only thing holding you up."
+},
+{
+"id": 1339,
+"section": "Softness as a Discipline",
+"text": "Write a poem about how you learned to be soft without becoming a doormat."
+},
+{
+"id": 1340,
+"section": "Softness as a Discipline",
+"text": "Write about a time softness protected you better than toughness ever could."
+},
+{
+"id": 1341,
+"section": "Softness as a Discipline",
+"text": "Write a poem about the tender things people do in hospitals at 4 a.m."
+},
+{
+"id": 1342,
+"section": "Softness as a Discipline",
+"text": "Write about saying \"I love you\" first, with no guarantee."
+},
+{
+"id": 1343,
+"section": "Softness as a Discipline",
+"text": "Write a poem in which every stanza begins \"It is brave to,\" and none of the answers are dramatic."
+},
+{
+"id": 1344,
+"section": "Softness as a Discipline",
+"text": "Write about the soft spot you have for something everyone else finds ugly."
+},
+{
+"id": 1345,
+"section": "Softness as a Discipline",
+"text": "Write a poem about a callused hand that still knows how to cradle."
+},
+{
+"id": 1346,
+"section": "Softness as a Discipline",
+"text": "Write about the way you speak to your best friend when they fail, and then speak that way to yourself."
+},
+{
+"id": 1347,
+"section": "Softness as a Discipline",
+"text": "Write a poem in which you build a shelter out of every kind word anyone has ever said to you."
+},
+{
+"id": 1348,
+"section": "Softness as a Discipline",
+"text": "Write about softness as the thing you would save first in a fire."
+},
+{
+"id": 1349,
+"section": "Softness as a Discipline",
+"text": "Write a poem about choosing to stay tender in a year that gave you every reason not to."
+},
+{
+"id": 1350,
+"section": "Softness as a Discipline",
+"text": "Write a closing poem that ends with you opening your hands, palms up, and leaving them that way."
+},
+{
+"id": 1351,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Spend ten minutes watching one bird, then write a poem using only verbs that bird performed."
+},
+{
+"id": 1352,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write a poem about the patience of moss on a north-facing stone."
+},
+{
+"id": 1353,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write about a snail crossing the sidewalk, and the decision you made about your next step."
+},
+{
+"id": 1354,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write a poem in which you ask a tree for advice and it answers only in the language of seasons."
+},
+{
+"id": 1355,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write about the first frost on a car windshield, and what you saw in its patterns."
+},
+{
+"id": 1356,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write a poem about a spider web strung between two parked bicycles."
+},
+{
+"id": 1357,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write about the crows of Seattle gathering at dusk, as if they are holding a town meeting about you."
+},
+{
+"id": 1358,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write a poem in which you lie in the grass long enough to hear what it is saying."
+},
+{
+"id": 1359,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write about a single leaf you watched fall from the branch to the ground, in real time."
+},
+{
+"id": 1360,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write a poem about a raccoon in a dumpster as a philosopher of second chances."
+},
+{
+"id": 1361,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write about the exact color of the sky at the moment you realized you were grieving."
+},
+{
+"id": 1362,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write a poem in which you are introduced to a mushroom and must make small talk."
+},
+{
+"id": 1363,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write about the bees in the lavender outside a hospital, working as if nothing is wrong."
+},
+{
+"id": 1364,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write a poem about the tide pool you found as a child and the one you found as an adult."
+},
+{
+"id": 1365,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write about the sound a forest makes when you stop walking."
+},
+{
+"id": 1366,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write a poem about a seal watching you from the water at Alki, deciding whether you are worth the trouble."
+},
+{
+"id": 1367,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write about the dandelion growing through the crack in the parking lot as your patron saint."
+},
+{
+"id": 1368,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write a poem in which you hold an earthworm after the rain and apologize for every one you stepped on."
+},
+{
+"id": 1369,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write about the salmon returning up the Ballard Locks, and the thing you keep swimming back toward."
+},
+{
+"id": 1370,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write a poem about noticing the same tree every day for a year and finally learning its name."
+},
+{
+"id": 1371,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write about a hawk on a freeway light pole, perfectly still above eight lanes of hurry."
+},
+{
+"id": 1372,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write a poem about the hummingbird that hovers at your window like a question."
+},
+{
+"id": 1373,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write about a field of fireweed after a burn, and what grows back first in a person."
+},
+{
+"id": 1374,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write a poem in which the ocean asks you what you have been doing with your one life, and you have to answer honestly."
+},
+{
+"id": 1375,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write about the moment a deer looked at you on a hiking trail and neither of you moved."
+},
+{
+"id": 1376,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write a poem about blackberry brambles along the Burke-Gilman Trail, sweet and thorned and everywhere."
+},
+{
+"id": 1377,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write about the chickadee that ate from your hand once, and how you have tried to deserve it since."
+},
+{
+"id": 1378,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write a poem in which you describe a cloud for fifteen lines without using the word \"cloud.\""
+},
+{
+"id": 1379,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write about a dead bird on the sidewalk and the small funeral you gave it."
+},
+{
+"id": 1380,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write a poem about the stars you cannot see because of the city lights, and who you imagine is up there anyway."
+},
+{
+"id": 1381,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write about the orca you saw once and how you tell the story slightly bigger every year."
+},
+{
+"id": 1382,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write a poem in which a garden teaches you how to wait."
+},
+{
+"id": 1383,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write about the first tulip in spring as the bravest thing on your block."
+},
+{
+"id": 1384,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write a poem about a stone you picked up on a beach and have carried to every apartment since."
+},
+{
+"id": 1385,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write about the river as the oldest storyteller you know."
+},
+{
+"id": 1386,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write a poem in which you list what you noticed on a ten-minute walk, and the final item is your own breath."
+},
+{
+"id": 1387,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write about bats at twilight over a lake, as punctuation the sky forgot to erase."
+},
+{
+"id": 1388,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write a poem about the smell of tomato leaves on your fingers in August."
+},
+{
+"id": 1389,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write about the patience of an old-growth cedar who was here before your family had a name."
+},
+{
+"id": 1390,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write a poem in which you are the one being watched by the wild thing, and you describe yourself from its eyes."
+},
+{
+"id": 1391,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write about the sound of geese overhead at night, going somewhere without you."
+},
+{
+"id": 1392,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write a poem about a fern unfurling as a fist slowly learning to open."
+},
+{
+"id": 1393,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write about the rain-soaked robin pulling a worm from your lawn and what you have been trying to pull from yourself."
+},
+{
+"id": 1394,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write a poem about the ant colony on your kitchen counter as a city you accidentally became mayor of."
+},
+{
+"id": 1395,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write about the madrona tree peeling its red bark, and what you would shed if you could."
+},
+{
+"id": 1396,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write a poem about attention as a form of prayer, with no God in it, only a heron."
+},
+{
+"id": 1397,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write about a sunrise you woke up early for on purpose, and what the light did to your face."
+},
+{
+"id": 1398,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write a poem in which you take your grief for a walk in the woods and let the trees carry some of it."
+},
+{
+"id": 1399,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write about one wild thing that has outlived every version of you."
+},
+{
+"id": 1400,
+"section": "Paying Attention: Birds, Moss & Small Weather",
+"text": "Write a poem that ends with you kneeling to look at something very small, and staying down there."
+},
+{
+"id": 1401,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem in which every line contains a word that can be read two ways, and the second reading is sadder."
+},
+{
+"id": 1402,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a love poem where every line is a palindrome or ends with one."
+},
+{
+"id": 1403,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem built around a single homophone pair, like \"mourning\" and \"morning,\" that switches meaning every stanza."
+},
+{
+"id": 1404,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem that can be read top to bottom for one meaning and bottom to top for the opposite."
+},
+{
+"id": 1405,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem where each stanza starts with the last word of the previous stanza."
+},
+{
+"id": 1406,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem in which you take an idiom literally, like \"spill the beans,\" and follow it to its logical, heartbreaking end."
+},
+{
+"id": 1407,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem that is an anagram of your full name, rearranged into a sentence you need to hear."
+},
+{
+"id": 1408,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem where every line begins with the next letter of the alphabet, A through Z, and the Z line is the confession."
+},
+{
+"id": 1409,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem whose rhyme scheme is entirely internal, with no rhymes at the ends of lines."
+},
+{
+"id": 1410,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem in which the pun is the punchline and the punchline is the heartbreak."
+},
+{
+"id": 1411,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem in which a single comma, moved one word to the left, changes a death sentence into a pardon."
+},
+{
+"id": 1412,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem that stacks spoonerisms until the mixed-up words reveal something real."
+},
+{
+"id": 1413,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem about a word you have always mispronounced, and the person who corrected you."
+},
+{
+"id": 1414,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem in which each line is a dictionary definition of the same word from a different stage of your life."
+},
+{
+"id": 1415,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem where the title is a pun and the body never mentions it but everything depends on it."
+},
+{
+"id": 1416,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem in which you hide a secret message in the first letter of every line, and make it something you would never say out loud."
+},
+{
+"id": 1417,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem where you replace every noun in a famous nursery rhyme with a noun from your worst week."
+},
+{
+"id": 1418,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem in which a single letter changes per line, ladder-style, from \"love\" to \"lost\" or \"fear\" to \"fine.\""
+},
+{
+"id": 1419,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem using only words you found on cereal boxes, shampoo bottles, and street signs."
+},
+{
+"id": 1420,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem made of tongue twisters that slowly untwist into plain speech."
+},
+{
+"id": 1421,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem in which you argue with a pun, and the pun wins."
+},
+{
+"id": 1422,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem built on the double meaning of \"present\": the gift, the moment, and the act of showing up."
+},
+{
+"id": 1423,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem in which every stanza is a different part of speech, nouns, then verbs, then adjectives, and the last is a single interjection."
+},
+{
+"id": 1424,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem in which you fall in love with a word, take it on dates, and break up with it."
+},
+{
+"id": 1425,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem that rhymes \"orange\" with something and is unashamed about how it got there."
+},
+{
+"id": 1426,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem in which the line breaks create a second, hidden poem when you read only the last word of each line."
+},
+{
+"id": 1427,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem where you translate a feeling into a made-up word, then define it, use it in a sentence, and give its etymology."
+},
+{
+"id": 1428,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem in which the puns get progressively worse and the emotion gets progressively better."
+},
+{
+"id": 1429,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem whose lines are all overheard sentences from a single Seattle coffee shop, rearranged into a love story."
+},
+{
+"id": 1430,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem in which every line contains a brand name, and the brands slowly tell the story of a family's money."
+},
+{
+"id": 1431,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem in which you take one long sentence and break it into lines so it means something different each time you break it."
+},
+{
+"id": 1432,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem made only of questions, where each question is answered by the next question."
+},
+{
+"id": 1433,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem with a refrain that changes by one word every time it appears."
+},
+{
+"id": 1434,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem in which every line contains a contraction, and the last line finally spells the words out in full: I will not, I am not, I did."
+},
+{
+"id": 1435,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem in which homonyms argue about which of them gets to mean the thing you feel."
+},
+{
+"id": 1436,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem that alliterates so hard it becomes a drumbeat, then drops it for the last line."
+},
+{
+"id": 1437,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem in which the shape of the words on the page forms the object you are writing about."
+},
+{
+"id": 1438,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem that starts as a limerick and turns serious halfway through without changing its meter."
+},
+{
+"id": 1439,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem about your name, what it means, what it rhymes with, and what kids on the playground did with it."
+},
+{
+"id": 1440,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem where every line is exactly seven words long, and the seventh word is always a verb."
+},
+{
+"id": 1441,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem built on the phrase \"I can't,\" revised line by line until it becomes \"I can.\""
+},
+{
+"id": 1442,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem in which you hide the word \"help\" inside longer words in every stanza."
+},
+{
+"id": 1443,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem in which the rhymes are so slant they are almost lying."
+},
+{
+"id": 1444,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem where you open the dictionary to a random page, pick the third word, and make it the hero."
+},
+{
+"id": 1445,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem that is entirely in the second person, and on the last line reveal \"you\" was always \"I.\""
+},
+{
+"id": 1446,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem in which a typo autocorrects into a better line than the one you meant."
+},
+{
+"id": 1447,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem made of the phrase \"it's fine\" repeated with different punctuation until it means everything else."
+},
+{
+"id": 1448,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem in which wordplay is used to avoid saying something, until the language runs out of tricks."
+},
+{
+"id": 1449,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem that ends on a pun so tender the audience groans and then goes quiet."
+},
+{
+"id": 1450,
+"section": "Wordplay, Puns & Linguistic Gymnastics",
+"text": "Write a poem in which you invent a collective noun for your feelings, like \"a murder of crows,\" and use it in a sentence that hurts."
+},
+{
+"id": 1451,
+"section": "Short Lines for Long Hurts",
+"text": "Write a heartbreak poem in exactly six lines, each line no more than five words."
+},
+{
+"id": 1452,
+"section": "Short Lines for Long Hurts",
+"text": "Write a poem that is just the text you never sent, and the time stamp."
+},
+{
+"id": 1453,
+"section": "Short Lines for Long Hurts",
+"text": "Write a four-line poem in which the last line undoes the first three."
+},
+{
+"id": 1454,
+"section": "Short Lines for Long Hurts",
+"text": "Write a poem about healing that fits on an index card, with room left over."
+},
+{
+"id": 1455,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem shaped like a receipt: what it cost, what you got, and a return policy that has expired."
+},
+{
+"id": 1456,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem that is the label on a bottle of medicine for heartbreak, including dosage and side effects."
+},
+{
+"id": 1457,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem to the person who stayed, and a shorter one to the person who left."
+},
+{
+"id": 1458,
+"section": "Short Lines for Long Hurts",
+"text": "Write a poem about letting go in ten words or fewer, then write it again in five."
+},
+{
+"id": 1459,
+"section": "Short Lines for Long Hurts",
+"text": "Write a poem where every line starts with \"you\" and ends with \"me.\""
+},
+{
+"id": 1460,
+"section": "Short Lines for Long Hurts",
+"text": "Write a two-line poem that could be tattooed on someone's forearm and survive twenty years."
+},
+{
+"id": 1461,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem in which you finally choose yourself."
+},
+{
+"id": 1462,
+"section": "Short Lines for Long Hurts",
+"text": "Write a poem about the day the pain got smaller, in three short stanzas."
+},
+{
+"id": 1463,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem with no adjectives about the worst night of your year."
+},
+{
+"id": 1464,
+"section": "Short Lines for Long Hurts",
+"text": "Write a poem in which the word \"enough\" appears three times, with a different meaning each time."
+},
+{
+"id": 1465,
+"section": "Short Lines for Long Hurts",
+"text": "Write a poem that is a single sentence spread across eight short lines."
+},
+{
+"id": 1466,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem to your future self, to be read on a bad day."
+},
+{
+"id": 1467,
+"section": "Short Lines for Long Hurts",
+"text": "Write a poem about missing someone that uses only the objects in your bedroom."
+},
+{
+"id": 1468,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem where the white space says more than the words."
+},
+{
+"id": 1469,
+"section": "Short Lines for Long Hurts",
+"text": "Write a poem about growing, in which each line is one word longer than the last."
+},
+{
+"id": 1470,
+"section": "Short Lines for Long Hurts",
+"text": "Write a poem about a love that ended, using only verbs."
+},
+{
+"id": 1471,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem that feels like a hand on your shoulder."
+},
+{
+"id": 1472,
+"section": "Short Lines for Long Hurts",
+"text": "Write a poem in which you list what you deserve in five short lines."
+},
+{
+"id": 1473,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem titled with the date someone left, and let the body be about breakfast."
+},
+{
+"id": 1474,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem about the version of yourself that existed before them."
+},
+{
+"id": 1475,
+"section": "Short Lines for Long Hurts",
+"text": "Write a poem in which the stanzas get shorter as the hurt gets smaller."
+},
+{
+"id": 1476,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem that a stranger could read on a coffee shop bathroom wall and feel seen."
+},
+{
+"id": 1477,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem where the final word is \"still,\" and let it mean both \"yet\" and \"unmoving.\""
+},
+{
+"id": 1478,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem that is a promise you are only making to yourself."
+},
+{
+"id": 1479,
+"section": "Short Lines for Long Hurts",
+"text": "Write a poem about boundaries in which each line is a closed door with a light under it."
+},
+{
+"id": 1480,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem about the moment you realized you were not the problem."
+},
+{
+"id": 1481,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem in which you return their hoodie, and the hoodie is the only one who says goodbye."
+},
+{
+"id": 1482,
+"section": "Short Lines for Long Hurts",
+"text": "Write a poem about a red flag you painted white and called a curtain."
+},
+{
+"id": 1483,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem where the last line is the thing they said that you cannot forget."
+},
+{
+"id": 1484,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem to your heart, written like a note left on a refrigerator."
+},
+{
+"id": 1485,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem about the softness after the storm, in which no one apologizes and it is still okay."
+},
+{
+"id": 1486,
+"section": "Short Lines for Long Hurts",
+"text": "Write a poem about a love you had to outgrow, in the shape of clothes that no longer fit."
+},
+{
+"id": 1487,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem where every line could be a caption for a photo you deleted."
+},
+{
+"id": 1488,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem in which you return a gift to someone who is not coming back."
+},
+{
+"id": 1489,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem about the bravery of getting out of bed."
+},
+{
+"id": 1490,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem in which you compare yourself to a house after the renovation."
+},
+{
+"id": 1491,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem about the first song you could listen to again after it ended."
+},
+{
+"id": 1492,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem where the reader has to guess what is missing."
+},
+{
+"id": 1493,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem made of three rules you now live by because of one person."
+},
+{
+"id": 1494,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem that you could whisper and still be heard in the back row."
+},
+{
+"id": 1495,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem about learning to be alone without being lonely."
+},
+{
+"id": 1496,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem about the version of love you will not settle for again."
+},
+{
+"id": 1497,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem about how the bruise is a map of where you were touched."
+},
+{
+"id": 1498,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem about the place in your chest where they used to live, now for rent."
+},
+{
+"id": 1499,
+"section": "Short Lines for Long Hurts",
+"text": "Write a short poem in which healing is not linear, and the lines on the page refuse to be straight."
+},
+{
+"id": 1500,
+"section": "Short Lines for Long Hurts",
+"text": "Write the shortest poem you can about everything you learned this year, and let it be one word."
+},
+{
+"id": 1501,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write a poem about hope as a person who works the night shift and still shows up to your birthday."
+},
+{
+"id": 1502,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write about a moment in a terrible day when something small and good happened, and refuse to make it bigger than it was."
+},
+{
+"id": 1503,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write a poem in which you argue with despair using only evidence from your actual life."
+},
+{
+"id": 1504,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write about the stranger who paid for your coffee on the worst morning, and the morning you paid it forward."
+},
+{
+"id": 1505,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write a poem about a friend who did not fix your problem but sat with you inside it."
+},
+{
+"id": 1506,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write about the moment you decided to stay alive, and what you saw in the room right then."
+},
+{
+"id": 1507,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write a poem in which hope is a cheap umbrella that somehow survives every storm."
+},
+{
+"id": 1508,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write about the teacher who believed in you for no reason you could see."
+},
+{
+"id": 1509,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write a poem titled \"Reasons to Stay,\" with every reason smaller and more specific than the last."
+},
+{
+"id": 1510,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write about the kid at the bus stop who reminded you that the world still has goodness in it."
+},
+{
+"id": 1511,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write a poem about a second chance you did not deserve and took anyway."
+},
+{
+"id": 1512,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write about rebuilding something with your hands after it fell apart, a bike, a fence, a friendship."
+},
+{
+"id": 1513,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write a poem in which the future is a letter you have not opened yet, but you can feel its weight."
+},
+{
+"id": 1514,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write about a time you surprised yourself by being stronger than you thought."
+},
+{
+"id": 1515,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write a poem that celebrates a small victory nobody else noticed."
+},
+{
+"id": 1516,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write about the morning after the worst night, and what the light did anyway."
+},
+{
+"id": 1517,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write a poem in which you write a job description for Hope, including benefits and hours."
+},
+{
+"id": 1518,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write about the scar that proves you healed, not that you were hurt."
+},
+{
+"id": 1519,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write a poem about your mother or father getting sober, getting better, or getting back up."
+},
+{
+"id": 1520,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write about planting a tree you will never sit under."
+},
+{
+"id": 1521,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write a poem in which you list the people who are rooting for you, including the ones who do not know your name."
+},
+{
+"id": 1522,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write about the moment a doctor said \"good news,\" and what you did with your hands."
+},
+{
+"id": 1523,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write a poem about a broken thing that works better because of the crack."
+},
+{
+"id": 1524,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write about hope as a stubborn weed in your garden that you keep failing to kill and secretly love."
+},
+{
+"id": 1525,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write a poem to someone who is where you were five years ago, telling them only true things."
+},
+{
+"id": 1526,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write about a stranger's random kindness that you still think about years later."
+},
+{
+"id": 1527,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write a poem about getting up for the hundredth time, and how the hundredth is not more dramatic than the first."
+},
+{
+"id": 1528,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write about the community that showed up with casseroles, and the casserole you will never forget."
+},
+{
+"id": 1529,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write a poem in which you celebrate your body for getting you through one more year."
+},
+{
+"id": 1530,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write about the moment you laughed for the first time after a long grief."
+},
+{
+"id": 1531,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write a poem about the city bus that runs at 5 a.m. full of people going to work to take care of someone."
+},
+{
+"id": 1532,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write about the fact that the sun rises regardless of your opinion about it."
+},
+{
+"id": 1533,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write a poem in which you list the songs, books, and people that kept you alive, with a thank-you note for each."
+},
+{
+"id": 1534,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write about the moment you noticed you were okay, and how it snuck up on you."
+},
+{
+"id": 1535,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write a poem about a child's drawing taped to a hospital wall."
+},
+{
+"id": 1536,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write about choosing joy as an act of defiance against the people who hoped you would break."
+},
+{
+"id": 1537,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write a poem in which you build a ladder out of tiny good days and climb it."
+},
+{
+"id": 1538,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write about the night a friend talked you out of something, and the morning you thanked them."
+},
+{
+"id": 1539,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write a poem in which you dare the universe to keep giving you reasons, and it does."
+},
+{
+"id": 1540,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write about the bridge you did not burn and the person who met you halfway across it."
+},
+{
+"id": 1541,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write a poem about your first paycheck after a long stretch of unemployment."
+},
+{
+"id": 1542,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write about the first apartment that felt like yours, even with nothing in it."
+},
+{
+"id": 1543,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write a poem about the moment you realized you were someone else's reason to stay."
+},
+{
+"id": 1544,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write about hope as a verb, conjugated in every tense you have lived through."
+},
+{
+"id": 1545,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write a poem in which the word \"yet\" is the most important word in every stanza."
+},
+{
+"id": 1546,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write about the garden you started on a fire escape with three pots and a lot of stubbornness."
+},
+{
+"id": 1547,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write a poem in which you admit hope is hard and do it anyway, line by line."
+},
+{
+"id": 1548,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write about the people you have not met yet who will love you."
+},
+{
+"id": 1549,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write a poem that ends with a door opening, and you not knowing what is on the other side, and walking through it."
+},
+{
+"id": 1550,
+"section": "Hope With Its Sleeves Rolled Up",
+"text": "Write a poem that you would read to a room full of people who are barely holding on, and mean every word."
+},
+{
+"id": 1551,
+"section": "Habits, Vices & Starting Over",
+"text": "Write a poem in which you count the days since you quit something, and each stanza is a milestone."
+},
+{
+"id": 1552,
+"section": "Habits, Vices & Starting Over",
+"text": "Personify your worst habit as a friend who always knows exactly what to say at midnight."
+},
+{
+"id": 1553,
+"section": "Habits, Vices & Starting Over",
+"text": "Write about the last cigarette, last drink, or last scroll, described in the present tense like a final meal."
+},
+{
+"id": 1554,
+"section": "Habits, Vices & Starting Over",
+"text": "Write a poem about relapse that refuses to be ashamed and refuses to be casual."
+},
+{
+"id": 1555,
+"section": "Habits, Vices & Starting Over",
+"text": "Write about a 12-step meeting in a church basement, describing the coffee, the chairs, and the one sentence that cracked you open."
+},
+{
+"id": 1556,
+"section": "Habits, Vices & Starting Over",
+"text": "Write a poem in which a craving is a phone call you let go to voicemail, and transcribe the voicemail."
+},
+{
+"id": 1557,
+"section": "Habits, Vices & Starting Over",
+"text": "Write about the habit you inherited and the morning you noticed you were doing it."
+},
+{
+"id": 1558,
+"section": "Habits, Vices & Starting Over",
+"text": "Write a poem in which your vice writes you a breakup letter."
+},
+{
+"id": 1559,
+"section": "Habits, Vices & Starting Over",
+"text": "Write about the chip, coin, or token you carry in your pocket, and the weight it has gained."
+},
+{
+"id": 1560,
+"section": "Habits, Vices & Starting Over",
+"text": "Write a poem about replacing one habit with another and pretending it counts as progress."
+},
+{
+"id": 1561,
+"section": "Habits, Vices & Starting Over",
+"text": "Write about New Year's resolutions as a graveyard, giving each one a headstone and epitaph."
+},
+{
+"id": 1562,
+"section": "Habits, Vices & Starting Over",
+"text": "Write a poem about the first morning you woke up without a hangover in years, and how loud the birds were."
+},
+{
+"id": 1563,
+"section": "Habits, Vices & Starting Over",
+"text": "Write about the person who drove you to rehab, and what the radio was playing."
+},
+{
+"id": 1564,
+"section": "Habits, Vices & Starting Over",
+"text": "Write a poem in which you list every place you have hidden something you were not supposed to have."
+},
+{
+"id": 1565,
+"section": "Habits, Vices & Starting Over",
+"text": "Write about the gas station at 2 a.m. where you buy the thing you swore you would not buy."
+},
+{
+"id": 1566,
+"section": "Habits, Vices & Starting Over",
+"text": "Write a poem about nail-biting, knuckle-cracking, or leg-bouncing as a language your body speaks when you will not."
+},
+{
+"id": 1567,
+"section": "Habits, Vices & Starting Over",
+"text": "Write about the habit you are proud of, and how long it took to become automatic."
+},
+{
+"id": 1568,
+"section": "Habits, Vices & Starting Over",
+"text": "Write a poem in which your phone's screen-time report reads like a confession."
+},
+{
+"id": 1569,
+"section": "Habits, Vices & Starting Over",
+"text": "Write about a sponsor, mentor, or friend whose number you have memorized."
+},
+{
+"id": 1570,
+"section": "Habits, Vices & Starting Over",
+"text": "Write a poem about \"just one\" as the most dangerous phrase in the English language."
+},
+{
+"id": 1571,
+"section": "Habits, Vices & Starting Over",
+"text": "Write about the version of you who would have died if things had gone differently, and thank them for not winning."
+},
+{
+"id": 1572,
+"section": "Habits, Vices & Starting Over",
+"text": "Write a poem about starting a workout routine for the eleventh time."
+},
+{
+"id": 1573,
+"section": "Habits, Vices & Starting Over",
+"text": "Write about a family gathering where everyone is drinking and you are holding a soda like a shield."
+},
+{
+"id": 1574,
+"section": "Habits, Vices & Starting Over",
+"text": "Write a poem in which a habit is a groove worn into a wooden floor by years of the same footsteps."
+},
+{
+"id": 1575,
+"section": "Habits, Vices & Starting Over",
+"text": "Write about what you do with your hands now that they are not holding the thing."
+},
+{
+"id": 1576,
+"section": "Habits, Vices & Starting Over",
+"text": "Write a poem about the apology tour of early sobriety, with a stop in every city of your life."
+},
+{
+"id": 1577,
+"section": "Habits, Vices & Starting Over",
+"text": "Write about the trigger you did not see coming: a smell, a song, a street corner."
+},
+{
+"id": 1578,
+"section": "Habits, Vices & Starting Over",
+"text": "Write a poem in which you are building a new habit like a bird building a nest one twig at a time."
+},
+{
+"id": 1579,
+"section": "Habits, Vices & Starting Over",
+"text": "Write about the urge as a wave you learned to surf instead of drown in."
+},
+{
+"id": 1580,
+"section": "Habits, Vices & Starting Over",
+"text": "Write a poem about a fresh notebook on January first and what happened to it by February."
+},
+{
+"id": 1581,
+"section": "Habits, Vices & Starting Over",
+"text": "Write about the friend who still uses and the phone call you are scared to make."
+},
+{
+"id": 1582,
+"section": "Habits, Vices & Starting Over",
+"text": "Write a poem about the shame spiral, mapped like a drain."
+},
+{
+"id": 1583,
+"section": "Habits, Vices & Starting Over",
+"text": "Write about the moment you said the words \"I have a problem\" and the silence after."
+},
+{
+"id": 1584,
+"section": "Habits, Vices & Starting Over",
+"text": "Write a poem in which you give yourself a sobriety birthday party and invite every version of you."
+},
+{
+"id": 1585,
+"section": "Habits, Vices & Starting Over",
+"text": "Write about the habit of saying \"I'm fine\" and the day you broke it."
+},
+{
+"id": 1586,
+"section": "Habits, Vices & Starting Over",
+"text": "Write a poem about the junk drawer of bad decisions and the one useful thing at the bottom."
+},
+{
+"id": 1587,
+"section": "Habits, Vices & Starting Over",
+"text": "Write about the empty bottles you carried to the recycling bin at dawn so no one would hear them clink."
+},
+{
+"id": 1588,
+"section": "Habits, Vices & Starting Over",
+"text": "Write a poem in which you start over and the world does not throw you a parade, and you keep going anyway."
+},
+{
+"id": 1589,
+"section": "Habits, Vices & Starting Over",
+"text": "Write about the daily practice that saved you: a walk, a journal, a prayer, a cold shower."
+},
+{
+"id": 1590,
+"section": "Habits, Vices & Starting Over",
+"text": "Write a poem about the vending machine at the treatment center and the strangers you met in front of it."
+},
+{
+"id": 1591,
+"section": "Habits, Vices & Starting Over",
+"text": "Write about the habit of pleasing everyone and the first time you said no."
+},
+{
+"id": 1592,
+"section": "Habits, Vices & Starting Over",
+"text": "Write a poem about the day count resetting to one, and what you did on day two."
+},
+{
+"id": 1593,
+"section": "Habits, Vices & Starting Over",
+"text": "Write about the old haunt you drive past and the version of you still sitting at the bar."
+},
+{
+"id": 1594,
+"section": "Habits, Vices & Starting Over",
+"text": "Write a poem in which a craving and a memory are the same thing wearing different jackets."
+},
+{
+"id": 1595,
+"section": "Habits, Vices & Starting Over",
+"text": "Write about the boring, beautiful routine of a life that is finally stable."
+},
+{
+"id": 1596,
+"section": "Habits, Vices & Starting Over",
+"text": "Write a poem about a habit you broke for someone else, and the one you broke for yourself."
+},
+{
+"id": 1597,
+"section": "Habits, Vices & Starting Over",
+"text": "Write about the cost of your vice, itemized like a receipt, including what money cannot measure."
+},
+{
+"id": 1598,
+"section": "Habits, Vices & Starting Over",
+"text": "Write a poem about \"progress, not perfection,\" and the day you finally believed it."
+},
+{
+"id": 1599,
+"section": "Habits, Vices & Starting Over",
+"text": "Write a poem that begins \"Day one\" and ends \"Day one,\" but the speaker is a different person."
+},
+{
+"id": 1600,
+"section": "Habits, Vices & Starting Over",
+"text": "Write a poem that tracks the slow arithmetic of recovery: dollars saved, mornings remembered, phone calls returned."
+},
+{
+"id": 1601,
+"section": "The Phone in Your Hand",
+"text": "Write a poem in which your phone is a pet that needs to be fed every hour."
+},
+{
+"id": 1602,
+"section": "The Phone in Your Hand",
+"text": "Write about the group chat as a living room where everyone talks and no one sits down."
+},
+{
+"id": 1603,
+"section": "The Phone in Your Hand",
+"text": "Write a poem about the photo you keep in your camera roll but never post."
+},
+{
+"id": 1604,
+"section": "The Phone in Your Hand",
+"text": "Write about scrolling past a friend's tragedy between two ads for shoes."
+},
+{
+"id": 1605,
+"section": "The Phone in Your Hand",
+"text": "Write a poem about the three dots that appear and disappear when someone is typing and changes their mind."
+},
+{
+"id": 1606,
+"section": "The Phone in Your Hand",
+"text": "Write about your search history as an autobiography written by your worst nights."
+},
+{
+"id": 1607,
+"section": "The Phone in Your Hand",
+"text": "Write a poem in which the \"read\" receipt is a door someone closed without saying goodbye."
+},
+{
+"id": 1608,
+"section": "The Phone in Your Hand",
+"text": "Write about the voicemail from a dead loved one that you have saved through four phone upgrades."
+},
+{
+"id": 1609,
+"section": "The Phone in Your Hand",
+"text": "Write a poem about airplane mode as the only vacation you can afford."
+},
+{
+"id": 1610,
+"section": "The Phone in Your Hand",
+"text": "Write about the notification sound that makes your heart jump even when it is not them."
+},
+{
+"id": 1611,
+"section": "The Phone in Your Hand",
+"text": "Write a poem in which you scroll back through a text thread to the very first message and read it like an archaeologist."
+},
+{
+"id": 1612,
+"section": "The Phone in Your Hand",
+"text": "Write about the selfie you took forty times to get right, and what the thirty-nine others said about you."
+},
+{
+"id": 1613,
+"section": "The Phone in Your Hand",
+"text": "Write a poem about a cracked phone screen you have learned to read through, like a stained-glass window."
+},
+{
+"id": 1614,
+"section": "The Phone in Your Hand",
+"text": "Write about doomscrolling at 1 a.m. as a slot machine that only pays out dread."
+},
+{
+"id": 1615,
+"section": "The Phone in Your Hand",
+"text": "Write a poem in which your phone dies during an emergency and you have to remember a phone number by heart."
+},
+{
+"id": 1616,
+"section": "The Phone in Your Hand",
+"text": "Write about the person whose number is still in your phone under a name only you understand."
+},
+{
+"id": 1617,
+"section": "The Phone in Your Hand",
+"text": "Write a poem about the dating app profile you wrote at 2 a.m., and the truth it left out."
+},
+{
+"id": 1618,
+"section": "The Phone in Your Hand",
+"text": "Write about the \"On This Day\" memory that ambushed you on a Tuesday."
+},
+{
+"id": 1619,
+"section": "The Phone in Your Hand",
+"text": "Write a poem in which a hashtag tries to hold a grief it is too small for."
+},
+{
+"id": 1620,
+"section": "The Phone in Your Hand",
+"text": "Write about leaving your phone at home for a day and what your hands did with themselves."
+},
+{
+"id": 1621,
+"section": "The Phone in Your Hand",
+"text": "Write a poem about the emoji you use when you do not know what to say."
+},
+{
+"id": 1622,
+"section": "The Phone in Your Hand",
+"text": "Write about the phone call your parent makes where they hold the phone too close and shout."
+},
+{
+"id": 1623,
+"section": "The Phone in Your Hand",
+"text": "Write a poem in which your algorithm knows you better than your family, and you hate that it is right."
+},
+{
+"id": 1624,
+"section": "The Phone in Your Hand",
+"text": "Write about the screenshot that ended a friendship."
+},
+{
+"id": 1625,
+"section": "The Phone in Your Hand",
+"text": "Write a poem about the percentage of battery left and the panic it holds."
+},
+{
+"id": 1626,
+"section": "The Phone in Your Hand",
+"text": "Write about a video call where the connection froze on someone's face mid-sentence, and what you imagined they were about to say."
+},
+{
+"id": 1627,
+"section": "The Phone in Your Hand",
+"text": "Write a poem about unfollowing someone and the weird funeral of it."
+},
+{
+"id": 1628,
+"section": "The Phone in Your Hand",
+"text": "Write about the last photo on your phone of someone who is now gone."
+},
+{
+"id": 1629,
+"section": "The Phone in Your Hand",
+"text": "Write a poem in which you hold a yard sale for every device you have owned, pricing each by what it witnessed."
+},
+{
+"id": 1630,
+"section": "The Phone in Your Hand",
+"text": "Write about the first text you ever received from someone you loved, and what your phone looked like."
+},
+{
+"id": 1631,
+"section": "The Phone in Your Hand",
+"text": "Write a poem about a shared streaming account you are still logged into, and the shows your ex is watching without you."
+},
+{
+"id": 1632,
+"section": "The Phone in Your Hand",
+"text": "Write about phantom vibrations in your pocket when there is nothing there."
+},
+{
+"id": 1633,
+"section": "The Phone in Your Hand",
+"text": "Write a poem in which your thumbs have calluses from typing words you never said out loud."
+},
+{
+"id": 1634,
+"section": "The Phone in Your Hand",
+"text": "Write about the live stream of a world event you watched alone in bed."
+},
+{
+"id": 1635,
+"section": "The Phone in Your Hand",
+"text": "Write a poem about a comment section as a crowded bar where everyone is yelling."
+},
+{
+"id": 1636,
+"section": "The Phone in Your Hand",
+"text": "Write about a voice memo of yourself singing that you will never share."
+},
+{
+"id": 1637,
+"section": "The Phone in Your Hand",
+"text": "Write a poem in which the cloud stores every photo you have ever taken, and you imagine visiting it like a museum."
+},
+{
+"id": 1638,
+"section": "The Phone in Your Hand",
+"text": "Write about the conversation you had in person after weeks of only texting, and how different their voice was."
+},
+{
+"id": 1639,
+"section": "The Phone in Your Hand",
+"text": "Write a poem about the 2 a.m. \"u up?\" from three angles: sender, receiver, and phone."
+},
+{
+"id": 1640,
+"section": "The Phone in Your Hand",
+"text": "Write about the moment you looked up from your screen and realized your kid, partner, or friend had stopped talking."
+},
+{
+"id": 1641,
+"section": "The Phone in Your Hand",
+"text": "Write a poem in which you text your past self a warning that arrives too late."
+},
+{
+"id": 1642,
+"section": "The Phone in Your Hand",
+"text": "Write about putting your phone face down at dinner as an act of love."
+},
+{
+"id": 1643,
+"section": "The Phone in Your Hand",
+"text": "Write a poem about the wallpaper on your lock screen and why you have not changed it."
+},
+{
+"id": 1644,
+"section": "The Phone in Your Hand",
+"text": "Write about a GPS voice that sounds kinder than anyone you know."
+},
+{
+"id": 1645,
+"section": "The Phone in Your Hand",
+"text": "Write a poem in which every stanza is a different app on your home screen, and the folder you hide them in."
+},
+{
+"id": 1646,
+"section": "The Phone in Your Hand",
+"text": "Write about the anxiety of posting something honest and refreshing for likes."
+},
+{
+"id": 1647,
+"section": "The Phone in Your Hand",
+"text": "Write a poem about a long-distance relationship held together by FaceTime and bad Wi-Fi."
+},
+{
+"id": 1648,
+"section": "The Phone in Your Hand",
+"text": "Write about the first time you saw yourself in someone else's tagged photo and did not recognize your face."
+},
+{
+"id": 1649,
+"section": "The Phone in Your Hand",
+"text": "Write a poem in which your phone is turned off for good, and the silence it leaves is a room you have to furnish."
+},
+{
+"id": 1650,
+"section": "The Phone in Your Hand",
+"text": "Write a poem that is a text to everyone in your contacts, saying the one thing you mean."
+},
+{
+"id": 1651,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write a poem about the kitchen table where every important conversation in your family happened."
+},
+{
+"id": 1652,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write about the meal you cook when you are sad, step by step, like a recipe for survival."
+},
+{
+"id": 1653,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write a poem in which the refrigerator door is a family newspaper, reading every magnet and note."
+},
+{
+"id": 1654,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write about the first meal you cooked for someone you loved and how badly it went."
+},
+{
+"id": 1655,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write a poem about being hungry as a kid and the lunch lady who noticed."
+},
+{
+"id": 1656,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write about the smell of onions cooking as the beginning of every good memory."
+},
+{
+"id": 1657,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write a poem about a potluck dish no one touched, and the person who made it."
+},
+{
+"id": 1658,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write about your grandmother's hands rolling dough, and the measurements she never wrote down."
+},
+{
+"id": 1659,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write a poem in which you eat a meal alone in a restaurant and refuse to look at your phone."
+},
+{
+"id": 1660,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write about the late-night drive-through as a confessional where the priest asks, \"Anything else?\""
+},
+{
+"id": 1661,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write a poem about the dish that tastes like home and the city you had to leave to find it again."
+},
+{
+"id": 1662,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write about a burnt pot you have scrubbed for years and refuse to throw out."
+},
+{
+"id": 1663,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write a poem in which the dinner table has one empty chair and everyone pretends not to see it."
+},
+{
+"id": 1664,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write about cooking with your father, and the only time he ever talked about his father."
+},
+{
+"id": 1665,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write a poem about the food bank line, and the dignity of everyone standing in it."
+},
+{
+"id": 1666,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write about your relationship with food as a long, complicated marriage."
+},
+{
+"id": 1667,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write a poem about the leftovers you brought home from a funeral reception."
+},
+{
+"id": 1668,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write about the spice rack in your kitchen as a map of everyone who has ever cooked for you."
+},
+{
+"id": 1669,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write a poem in which a recipe card has stains that tell the story of every time it was used."
+},
+{
+"id": 1670,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write about the meal you shared with a stranger while traveling and the language you did not need."
+},
+{
+"id": 1671,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write a poem about Thanksgiving told through the dishes only, never the people."
+},
+{
+"id": 1672,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write about the coffee you make every morning as a ritual that holds your whole day together."
+},
+{
+"id": 1673,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write a poem about a teriyaki joint in Seattle where the owner knows your order before you say it."
+},
+{
+"id": 1674,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write about a dinner party where everyone is pretending to be happier than they are."
+},
+{
+"id": 1675,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write a poem in which you feed a friend who is going through a breakup and say nothing at all."
+},
+{
+"id": 1676,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write about eating cereal for dinner and calling it independence."
+},
+{
+"id": 1677,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write a poem about the sound of a family kitchen at 6 p.m. on a weekday."
+},
+{
+"id": 1678,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write about the comfort of soup when you are sick and the person who used to bring it."
+},
+{
+"id": 1679,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write a poem about a lunchbox note you found as an adult in an old jacket."
+},
+{
+"id": 1680,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write about the first time you went grocery shopping on your own budget, and what you put back."
+},
+{
+"id": 1681,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write a poem about the oven timer beeping in an empty house."
+},
+{
+"id": 1682,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write about the restaurant you used to go to with your ex, now closed, and the sign that is still up."
+},
+{
+"id": 1683,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write a poem in which every stanza is a different meal you ate in one terrible day."
+},
+{
+"id": 1684,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write about a garden tomato eaten straight off the vine in the heat."
+},
+{
+"id": 1685,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write a poem about the dish your partner makes that you pretend to love."
+},
+{
+"id": 1686,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write about the kitchen at 3 a.m. when you cannot sleep and you are just standing there."
+},
+{
+"id": 1687,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write a poem about the meal you would want as your last, and who you would want cooking it."
+},
+{
+"id": 1688,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write about the hunger that food cannot fill."
+},
+{
+"id": 1689,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write a poem in which you bake bread for the first time and the dough teaches you patience."
+},
+{
+"id": 1690,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write about the communal kitchen in a shared house and the passive-aggressive note on the fridge."
+},
+{
+"id": 1691,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write a poem about breaking bread with someone you used to hate."
+},
+{
+"id": 1692,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write about pancakes on a Saturday morning as the only time your family was entirely at peace."
+},
+{
+"id": 1693,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write a poem about the chopsticks, fork, or hands you were taught to eat with, and the people who taught you."
+},
+{
+"id": 1694,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write about the snack your mother kept hidden for herself, and the day you found it."
+},
+{
+"id": 1695,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write a poem about a diner waitress who calls everyone \"hon\" and means it."
+},
+{
+"id": 1696,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write about the meal that marked a turning point: the first dinner sober, the first meal after the diagnosis."
+},
+{
+"id": 1697,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write a poem in which you cook for the dead, setting a place for each of them."
+},
+{
+"id": 1698,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write about the dishes stacked in the sink as a calendar of how bad the week was."
+},
+{
+"id": 1699,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write a poem about the moment someone handed you a plate when you did not know you needed one."
+},
+{
+"id": 1700,
+"section": "Kitchens, Hunger & the Shared Table",
+"text": "Write a poem in which the table is set, the food is ready, and the last person you expected walks through the door."
+},
+{
+"id": 1701,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write a poem about the song that comes on in the grocery store and makes you abandon your cart."
+},
+{
+"id": 1702,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write the tracklist of a mixtape you made for someone, and annotate each song with what you meant."
+},
+{
+"id": 1703,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write a poem in which a song you loved becomes unbearable after one specific night."
+},
+{
+"id": 1704,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write about the first concert you ever went to and who drove you there."
+},
+{
+"id": 1705,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write a poem in which your heartbeat is a bass line and your breath is a hi-hat."
+},
+{
+"id": 1706,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write about the song your parents danced to in the kitchen when they thought no one was watching."
+},
+{
+"id": 1707,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write a poem about the karaoke song you always pick, and the truth it lets you say."
+},
+{
+"id": 1708,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write about the ringtone from a phone you owned ten years ago that still makes you turn your head."
+},
+{
+"id": 1709,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write a poem in which you write liner notes for the album of your twenties."
+},
+{
+"id": 1710,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write about the song that played at a funeral, and how you cannot hear it at weddings now."
+},
+{
+"id": 1711,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write a poem about a piano no one in the house can play."
+},
+{
+"id": 1712,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write about the cassette tape that got eaten by the car stereo and the hours you spent winding it back with a pencil."
+},
+{
+"id": 1713,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write a poem in which the bridge of a song is a literal bridge you have to cross to reach someone."
+},
+{
+"id": 1714,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write about the lyrics you misheard as a child and how the wrong version was better."
+},
+{
+"id": 1715,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write a poem about your music streaming \"Wrapped\" summary as a year-in-review confession."
+},
+{
+"id": 1716,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write about a song a friend sent you with no message, and what you decided it meant."
+},
+{
+"id": 1717,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write a poem in which a record skips on the same lyric again and again, and you finally listen."
+},
+{
+"id": 1718,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write about the music in a hospital waiting room and the absurdity of soft jazz during the worst news."
+},
+{
+"id": 1719,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write a poem about a busker at Westlake Center who played the one song you needed."
+},
+{
+"id": 1720,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write about the grunge record your older sibling played through the bedroom wall in 1994."
+},
+{
+"id": 1721,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write a poem in which you are the last person who remembers the words to a family song."
+},
+{
+"id": 1722,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write about singing in the car alone at full volume and the person who saw you at the stoplight."
+},
+{
+"id": 1723,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write a poem about the playlist you made for a road trip that never happened."
+},
+{
+"id": 1724,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write about the instrument you quit as a kid, and what it would say to you now."
+},
+{
+"id": 1725,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write a poem in which silence is a song with only rests, and you conduct it."
+},
+{
+"id": 1726,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write about a love song you hated until you were in love."
+},
+{
+"id": 1727,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write a poem about the hymn you still know by heart even though you do not believe anymore."
+},
+{
+"id": 1728,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write about the wedding DJ who played the wrong song at the worst moment."
+},
+{
+"id": 1729,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write a poem in which every stanza is the length of a three-minute pop song, timed out loud."
+},
+{
+"id": 1730,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write about the first time you heard your favorite poet's voice and how it was music."
+},
+{
+"id": 1731,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write a poem about a song that sounds like a specific summer, naming the year and the street."
+},
+{
+"id": 1732,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write about a guitar with a broken string that someone left at your apartment."
+},
+{
+"id": 1733,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write a poem in which your life has a soundtrack, and the music supervisor got one scene very wrong."
+},
+{
+"id": 1734,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write about the radio station that played in your father's truck and the songs he only sang there."
+},
+{
+"id": 1735,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write a poem about headphones as a wall you build on the bus."
+},
+{
+"id": 1736,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write about dancing badly at a wedding and not caring for the first time in your life."
+},
+{
+"id": 1737,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write a poem in which a breakup album is a museum, and each song is a room."
+},
+{
+"id": 1738,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write about the opening notes of a song as the moment before someone says your name."
+},
+{
+"id": 1739,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write a poem about a song you cannot listen to in front of anyone because of how hard you cry."
+},
+{
+"id": 1740,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write about the ice cream truck melody that still makes you run toward something."
+},
+{
+"id": 1741,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write a poem in which you write a cover version of someone else's sad song with your own facts."
+},
+{
+"id": 1742,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write about a band you loved that broke up, and how it felt like a divorce in the family."
+},
+{
+"id": 1743,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write a poem about the chorus everyone sings together at the end of the night, and the stranger whose arm you were holding."
+},
+{
+"id": 1744,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write about a lullaby someone sang to you that you have only ever sung to yourself."
+},
+{
+"id": 1745,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write a poem in which an old voicemail of someone singing happy birthday is the most valuable thing you own."
+},
+{
+"id": 1746,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write about the song you want played at your funeral and why it is not a sad one."
+},
+{
+"id": 1747,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write a poem about the music that got you through a breakup, track by track, until the last track was silence."
+},
+{
+"id": 1748,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write about the jukebox in a dive bar and the dollar you spent on the song you could not say."
+},
+{
+"id": 1749,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write a poem in which you hum a melody you cannot place, and follow it back to a memory."
+},
+{
+"id": 1750,
+"section": "Mixtapes & Songs You Can't Hear Anymore",
+"text": "Write a poem that is a fade-out, getting quieter line by line until the last word is almost a whisper."
+},
+{
+"id": 1751,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write a poem about the stranger who sits in the same seat on the bus every morning and what you imagine their life is."
+},
+{
+"id": 1752,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write about the neighbor whose music you hear through the wall and the song that made you cry."
+},
+{
+"id": 1753,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write a poem about a light rail ride from Northgate to SeaTac where every stop is a different chapter of your life."
+},
+{
+"id": 1754,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write about the man at the bus stop who said something kind and then got on a different bus."
+},
+{
+"id": 1755,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write a poem about the neighbor you have lived beside for six years and never spoken to."
+},
+{
+"id": 1756,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write about a stranger crying on the train and the decision you made about whether to say anything."
+},
+{
+"id": 1757,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write a poem in which you write a thank-you note to a stranger who will never read it."
+},
+{
+"id": 1758,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write about the pharmacist who has filled your prescriptions for a decade and knows more about your life than your friends do."
+},
+{
+"id": 1759,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write a poem about a stranger at a funeral who knew a version of your loved one you never met."
+},
+{
+"id": 1760,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write about the neighbor's porch light that stays on all night, and the story you invent for why."
+},
+{
+"id": 1761,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write a poem in which every passenger on the bus is carrying something invisible, and you list what it might be."
+},
+{
+"id": 1762,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write about the woman at the laundromat who folded your shirt while you were in the bathroom."
+},
+{
+"id": 1763,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write a poem about a stranger asking for directions, and how you got it wrong but walked with them anyway."
+},
+{
+"id": 1764,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write about the unhoused man outside your building whose name you finally asked."
+},
+{
+"id": 1765,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write a poem about two strangers sharing an armrest on a long flight in total silence."
+},
+{
+"id": 1766,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write about the neighbor who shovels your sidewalk without being asked."
+},
+{
+"id": 1767,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write a poem about a fight you overheard through an apartment wall and the reconciliation you heard the next night."
+},
+{
+"id": 1768,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write about the stranger in the hospital waiting room who held your hand."
+},
+{
+"id": 1769,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write a poem about a mail carrier who has watched your whole life arrive in envelopes."
+},
+{
+"id": 1770,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write about the person at the gym who nods at you every day, and the day they stopped coming."
+},
+{
+"id": 1771,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write a poem in which a stranger's laugh on the street makes you remember someone you lost."
+},
+{
+"id": 1772,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write about a hitchhiker you picked up or did not pick up, and the conversation you imagine you missed."
+},
+{
+"id": 1773,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write a poem about the people you see at the same coffee shop every Saturday, given names you invented."
+},
+{
+"id": 1774,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write about the neighbor kid who plays basketball in the driveway until dark."
+},
+{
+"id": 1775,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write a poem about a wrong number that became a ten-minute conversation."
+},
+{
+"id": 1776,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write about the stranger who jump-started your car in a Fred Meyer parking lot and refused the twenty you offered."
+},
+{
+"id": 1777,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write a poem about the community garden where strangers grow food side by side."
+},
+{
+"id": 1778,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write about the Lyft driver who told you their whole life story in twenty minutes."
+},
+{
+"id": 1779,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write a poem in which a stranger holds the elevator for you, and you hold it for the next one."
+},
+{
+"id": 1780,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write about the neighbor's dog that greets you every day like you are a celebrity."
+},
+{
+"id": 1781,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write a poem about a stranger's handwriting on a library book's checkout card."
+},
+{
+"id": 1782,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write about the old couple who walk past your window holding hands every evening at 6."
+},
+{
+"id": 1783,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write a poem about the people you have shared a stuck elevator with."
+},
+{
+"id": 1784,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write about a stranger who said \"you dropped this\" and handed you something you did not know you lost."
+},
+{
+"id": 1785,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write a poem about the crossing guard who has kept a generation of kids alive."
+},
+{
+"id": 1786,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write about a stranger at a concert singing every word next to you, and the moment you sang together."
+},
+{
+"id": 1787,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write a poem about the apartment above yours and the footsteps that tell you their whole routine."
+},
+{
+"id": 1788,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write about a neighbor who passed away and the empty house you walk past every day."
+},
+{
+"id": 1789,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write a poem in which the bus driver is the captain of a ship full of tired people going home."
+},
+{
+"id": 1790,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write about the stranger whose umbrella you shared for one block on Third Avenue."
+},
+{
+"id": 1791,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write a poem about saying \"good morning\" to someone who clearly needed it."
+},
+{
+"id": 1792,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write about the neighbor who calls the police on everything, and the one time they were right."
+},
+{
+"id": 1793,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write a poem in which strangers in a city are all strings of the same instrument."
+},
+{
+"id": 1794,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write about the person sleeping in the doorway of the bank you walk past every morning."
+},
+{
+"id": 1795,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write a poem about the neighbor who leaves zucchini on every porch in August like an anonymous apology."
+},
+{
+"id": 1796,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write about the people you see in lit apartment windows at night, each one a short film."
+},
+{
+"id": 1797,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write a poem about the 911 dispatcher who stayed on the line, and the voice you still hear when you are scared."
+},
+{
+"id": 1798,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write about a block party where the neighbors finally learned each other's names."
+},
+{
+"id": 1799,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write a poem in which every stranger you passed today is the main character in their own poem."
+},
+{
+"id": 1800,
+"section": "Strangers, Neighbors & the Number 7 Bus",
+"text": "Write a poem about the last stop on the line, where everyone gets off and the bus goes dark."
+},
+{
+"id": 1801,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write a poem about blowing out birthday candles and the wish you have made every year since you were nine."
+},
+{
+"id": 1802,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write about the first gray hair you found, and the conversation you had with it in the mirror."
+},
+{
+"id": 1803,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write a poem in which every stanza is a different birthday, out of order."
+},
+{
+"id": 1804,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write about the age your parent was when they had you, and what you were doing at that age."
+},
+{
+"id": 1805,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write a poem about the clock in your grandparents' house that ticked louder than anything."
+},
+{
+"id": 1806,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write about turning thirty, forty, or fifty in a bar bathroom."
+},
+{
+"id": 1807,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write a poem about the body that used to bounce back and now negotiates."
+},
+{
+"id": 1808,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write about a birthday no one remembered and the cake you bought yourself."
+},
+{
+"id": 1809,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write a poem in which time is a landlord who keeps raising the rent."
+},
+{
+"id": 1810,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write about the moment you realized you were older than your favorite poet was when they died."
+},
+{
+"id": 1811,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write a poem about reading glasses and what they help you see more clearly besides small print."
+},
+{
+"id": 1812,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write about the photo of you at seven next to the photo of you now, and what the boy would say."
+},
+{
+"id": 1813,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write a poem about the birthday card your mother still signs the same way."
+},
+{
+"id": 1814,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write about the year that went by too fast and the year that took a decade."
+},
+{
+"id": 1815,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write a poem about knees that predict the weather."
+},
+{
+"id": 1816,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write about a high school reunion where everyone pretends not to be counting."
+},
+{
+"id": 1817,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write a poem in which you list what you thought you would have by now, and what you have instead."
+},
+{
+"id": 1818,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write about the clock on the microwave that has been blinking 12:00 for two years."
+},
+{
+"id": 1819,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write a poem about aging parents and the day you became the one who drives."
+},
+{
+"id": 1820,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write about the friend you have known for twenty years and how your faces have changed together."
+},
+{
+"id": 1821,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write a poem in which your younger self arrives at your birthday party uninvited."
+},
+{
+"id": 1822,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write about the music you swore you would never call \"the good old days.\""
+},
+{
+"id": 1823,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write a poem about a wristwatch that stopped at the exact moment someone died."
+},
+{
+"id": 1824,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write about the dreams you let expire, and the ones you renewed."
+},
+{
+"id": 1825,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write a poem about growing old with someone, written like a weather forecast for the next fifty years."
+},
+{
+"id": 1826,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write about the wrinkles around your eyes as a record of every time you laughed."
+},
+{
+"id": 1827,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write a poem in which time is a river and you are standing on the bank holding a shoe that fell in."
+},
+{
+"id": 1828,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write about the day you started saying \"kids these days\" and caught yourself."
+},
+{
+"id": 1829,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write a poem about the calendar on your fridge with one day circled in red."
+},
+{
+"id": 1830,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write about the first time a younger person called you \"sir\" or \"ma'am.\""
+},
+{
+"id": 1831,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write a poem about the hourglass as the only honest clock."
+},
+{
+"id": 1832,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write about outliving someone you thought would always be older than you."
+},
+{
+"id": 1833,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write a poem about a birthday spent in a hospital, a jail, or a place no one plans for."
+},
+{
+"id": 1834,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write about the youthful mistake you laugh about now and the one you still cannot."
+},
+{
+"id": 1835,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write a poem in which each line is a year of your life, in one sentence or less."
+},
+{
+"id": 1836,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write about the moment you realized your parents were younger than you are now in your favorite photo of them."
+},
+{
+"id": 1837,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write a poem about the half-birthday you celebrated as a kid and why it mattered."
+},
+{
+"id": 1838,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write about the time you wasted and refuse to call wasted."
+},
+{
+"id": 1839,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write a poem about aging as a slow translation of your body into another language."
+},
+{
+"id": 1840,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write about the age you feel inside versus the age on your license."
+},
+{
+"id": 1841,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write a poem in which a clock repairman tries to fix time itself."
+},
+{
+"id": 1842,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write about the birthday when you finally stopped waiting for a call from one particular person."
+},
+{
+"id": 1843,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write a poem about the old man you are becoming, and what you hope he forgives you for."
+},
+{
+"id": 1844,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write about a time capsule you buried and the person who will dig it up."
+},
+{
+"id": 1845,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write a poem about the late bloomer in every family and why they are worth the wait."
+},
+{
+"id": 1846,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write about how you celebrate getting older when not everyone gets to."
+},
+{
+"id": 1847,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write a poem in which you are given one extra hour in a day, and how you spend it."
+},
+{
+"id": 1848,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write about the last birthday you spent with someone, and how ordinary it was."
+},
+{
+"id": 1849,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write a poem about the future version of you sitting on a porch, reading this poem."
+},
+{
+"id": 1850,
+"section": "Birthdays, Clocks & Getting Older",
+"text": "Write a poem that counts down from your current age to zero, one memory per number."
+},
+{
+"id": 1851,
+"section": "Anger & What It Protects",
+"text": "Write a poem about the angriest you have ever been, and what you were protecting."
+},
+{
+"id": 1852,
+"section": "Anger & What It Protects",
+"text": "Personify your anger as a bouncer at the door of your heart, checking IDs."
+},
+{
+"id": 1853,
+"section": "Anger & What It Protects",
+"text": "Write about the slammed door as the only sentence you could finish."
+},
+{
+"id": 1854,
+"section": "Anger & What It Protects",
+"text": "Write a poem in which your anger takes a long walk and comes back as grief."
+},
+{
+"id": 1855,
+"section": "Anger & What It Protects",
+"text": "Write about the things you broke in anger and the one thing you broke on purpose."
+},
+{
+"id": 1856,
+"section": "Anger & What It Protects",
+"text": "Write a poem about road rage at a red light, and the person in the other car who turned out to be crying."
+},
+{
+"id": 1857,
+"section": "Anger & What It Protects",
+"text": "Write about a time your anger was right and you swallowed it anyway."
+},
+{
+"id": 1858,
+"section": "Anger & What It Protects",
+"text": "Write a poem about the anger you were taught was unbecoming, and the day you let it become you."
+},
+{
+"id": 1859,
+"section": "Anger & What It Protects",
+"text": "Write about punching a pillow, a wall, or a heavy bag, and what your knuckles learned."
+},
+{
+"id": 1860,
+"section": "Anger & What It Protects",
+"text": "Write a poem in which anger is a fire you have to tend without letting it burn the house down."
+},
+{
+"id": 1861,
+"section": "Anger & What It Protects",
+"text": "Write about the injustice that makes you shake, naming specifics: the place, the person, the policy."
+},
+{
+"id": 1862,
+"section": "Anger & What It Protects",
+"text": "Write a poem about your father's anger and the way the house went quiet before it arrived."
+},
+{
+"id": 1863,
+"section": "Anger & What It Protects",
+"text": "Write about the letter you wrote in fury and the version you actually sent."
+},
+{
+"id": 1864,
+"section": "Anger & What It Protects",
+"text": "Write a poem about the anger of being misunderstood by the one person you thought understood you."
+},
+{
+"id": 1865,
+"section": "Anger & What It Protects",
+"text": "Write about the scream you let out in your car on the freeway, timed between two exits."
+},
+{
+"id": 1866,
+"section": "Anger & What It Protects",
+"text": "Write a poem in which you interview your anger like a journalist: who, what, when, where, why."
+},
+{
+"id": 1867,
+"section": "Anger & What It Protects",
+"text": "Write about righteous anger as a compass that sometimes points the wrong way."
+},
+{
+"id": 1868,
+"section": "Anger & What It Protects",
+"text": "Write a poem about the anger you feel at a body that failed you."
+},
+{
+"id": 1869,
+"section": "Anger & What It Protects",
+"text": "Write about getting angry at God, the universe, or the sky, and saying it out loud."
+},
+{
+"id": 1870,
+"section": "Anger & What It Protects",
+"text": "Write a poem about the calm that comes after you finally say what made you angry."
+},
+{
+"id": 1871,
+"section": "Anger & What It Protects",
+"text": "Write about the anger that hides behind sarcasm, and the line where the joke stops being funny."
+},
+{
+"id": 1872,
+"section": "Anger & What It Protects",
+"text": "Write a poem in which anger is a storm system moving across a map of your relationships."
+},
+{
+"id": 1873,
+"section": "Anger & What It Protects",
+"text": "Write about the anger you directed at the wrong person, and the apology you owe them."
+},
+{
+"id": 1874,
+"section": "Anger & What It Protects",
+"text": "Write a poem about counting to ten and what happens at eleven."
+},
+{
+"id": 1875,
+"section": "Anger & What It Protects",
+"text": "Write about the slow anger of being underpaid, underestimated, or overlooked for years."
+},
+{
+"id": 1876,
+"section": "Anger & What It Protects",
+"text": "Write a poem in which your fists unclench one finger at a time, and each finger is a reason."
+},
+{
+"id": 1877,
+"section": "Anger & What It Protects",
+"text": "Write about the anger that drove you to change something and the change it made."
+},
+{
+"id": 1878,
+"section": "Anger & What It Protects",
+"text": "Write a poem about how anger tastes: metallic, hot, or like burnt coffee."
+},
+{
+"id": 1879,
+"section": "Anger & What It Protects",
+"text": "Write about the passive-aggressive sticky note as the smallest form of war."
+},
+{
+"id": 1880,
+"section": "Anger & What It Protects",
+"text": "Write a poem about anger at yourself, and the punishment you would never give anyone else."
+},
+{
+"id": 1881,
+"section": "Anger & What It Protects",
+"text": "Write about the moment someone was angry at you and they were completely right."
+},
+{
+"id": 1882,
+"section": "Anger & What It Protects",
+"text": "Write a poem about the anger of watching someone you love hurt themselves."
+},
+{
+"id": 1883,
+"section": "Anger & What It Protects",
+"text": "Write about a protest you went to and the chant that made your throat ache."
+},
+{
+"id": 1884,
+"section": "Anger & What It Protects",
+"text": "Write a poem in which you hold your anger like a hot coal and decide when to set it down."
+},
+{
+"id": 1885,
+"section": "Anger & What It Protects",
+"text": "Write about the friend who lets you rant without trying to fix it."
+},
+{
+"id": 1886,
+"section": "Anger & What It Protects",
+"text": "Write a poem about anger as a younger brother of fear who always takes the blame."
+},
+{
+"id": 1887,
+"section": "Anger & What It Protects",
+"text": "Write about the anger you carry for your ancestors who were not allowed to carry it."
+},
+{
+"id": 1888,
+"section": "Anger & What It Protects",
+"text": "Write a poem in which you dance your anger out in your kitchen."
+},
+{
+"id": 1889,
+"section": "Anger & What It Protects",
+"text": "Write about a game of pickup basketball that got too heated and what was really being played."
+},
+{
+"id": 1890,
+"section": "Anger & What It Protects",
+"text": "Write a poem about the silent treatment from the perspective of the silence."
+},
+{
+"id": 1891,
+"section": "Anger & What It Protects",
+"text": "Write about anger that turned into a poem instead of a fight, and how close it came."
+},
+{
+"id": 1892,
+"section": "Anger & What It Protects",
+"text": "Write a poem about the volcano you were taught not to be, and the island you could have become."
+},
+{
+"id": 1893,
+"section": "Anger & What It Protects",
+"text": "Write about the clench in your jaw and the dentist who noticed it before you did."
+},
+{
+"id": 1894,
+"section": "Anger & What It Protects",
+"text": "Write a poem about an argument that has been running in your family for thirty years."
+},
+{
+"id": 1895,
+"section": "Anger & What It Protects",
+"text": "Write about the anger of grief, the kind that wants to shout at the hospital parking meter."
+},
+{
+"id": 1896,
+"section": "Anger & What It Protects",
+"text": "Write a poem in which your anger finally gets to speak at the microphone for three minutes uninterrupted."
+},
+{
+"id": 1897,
+"section": "Anger & What It Protects",
+"text": "Write about what is underneath your anger, and dig until you hit something soft."
+},
+{
+"id": 1898,
+"section": "Anger & What It Protects",
+"text": "Write a poem about forgiving someone while still being angry at them, and how both can be true."
+},
+{
+"id": 1899,
+"section": "Anger & What It Protects",
+"text": "Write a poem that starts loud and ends in a whisper, and the whisper is the real point."
+},
+{
+"id": 1900,
+"section": "Anger & What It Protects",
+"text": "Write about the anger of being told to calm down, and what you would have said if you had not stayed calm."
+},
+{
+"id": 1901,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write a poem about the last kid picked for a team, from the point of view of the kid who picked them."
+},
+{
+"id": 1902,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write about the game you lost that taught you more than any game you won."
+},
+{
+"id": 1903,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write a poem about a Mariners game in a half-empty stadium on a cold April night."
+},
+{
+"id": 1904,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write about a board game your family played that always ended in a fight."
+},
+{
+"id": 1905,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write a poem in which a scoreboard records the wrong things: hugs, apologies, missed calls."
+},
+{
+"id": 1906,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write about the coach who yelled and the coach who believed, and which one you still hear."
+},
+{
+"id": 1907,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write a poem about a pickup basketball game at a park where nobody knows each other's last name."
+},
+{
+"id": 1908,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write about losing a chess game to a kid and how it humbled you."
+},
+{
+"id": 1909,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write a poem in which the referee is your conscience, calling fouls you did not think anyone saw."
+},
+{
+"id": 1910,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write about the trophy in your parents' basement and the boy who won it."
+},
+{
+"id": 1911,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write a poem about video games you played with a sibling and the levels you never finished together."
+},
+{
+"id": 1912,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write about the Seahawks game your father watched with you in total silence, and why that was enough."
+},
+{
+"id": 1913,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write a poem in which the last minute of a game is stretched across an entire life."
+},
+{
+"id": 1914,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write about a card game your grandmother cheated at and everyone let her."
+},
+{
+"id": 1915,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write a poem about the sports injury that ended a dream, and what started in its place."
+},
+{
+"id": 1916,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write about winning ugly and loving it anyway."
+},
+{
+"id": 1917,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write a poem about the playground game with rules that changed every day depending on who was winning."
+},
+{
+"id": 1918,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write about the fantasy football league as a group chat about loneliness disguised as stats."
+},
+{
+"id": 1919,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write a poem about learning to ride a bike, and falling being the whole lesson."
+},
+{
+"id": 1920,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write about the bowling alley birthday party where the bumpers were up and you still threw a gutter ball."
+},
+{
+"id": 1921,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write a poem in which the home team is your family, and you describe the season."
+},
+{
+"id": 1922,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write about the sports bar where strangers hug when a goal goes in."
+},
+{
+"id": 1923,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write a poem about the board game piece that went missing and the object you used to replace it."
+},
+{
+"id": 1924,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write about the sport you were bad at and played anyway because your friends were there."
+},
+{
+"id": 1925,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write a poem in which a scorecard from a round of mini-golf holds a whole first date."
+},
+{
+"id": 1926,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write about the game of tag that turned into running home in the dark."
+},
+{
+"id": 1927,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write a poem about the final buzzer as a sound you hear in other parts of your life."
+},
+{
+"id": 1928,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write about the arcade token you still have and the game it was saved for."
+},
+{
+"id": 1929,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write a poem about how losing gracefully is a skill no one teaches."
+},
+{
+"id": 1930,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write about a sport your parent played that you watched in a grainy video."
+},
+{
+"id": 1931,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write a poem in which you write a sportscast of your morning routine, with play-by-play and color commentary."
+},
+{
+"id": 1932,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write about the game you stopped playing when you realized you were only playing to make someone proud."
+},
+{
+"id": 1933,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write a poem about a swimming pool at 6 a.m. and the lap where you stopped thinking."
+},
+{
+"id": 1934,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write about the moment the underdog won and the whole room believed in something for a second."
+},
+{
+"id": 1935,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write a poem about a deck of cards on a hospital tray table."
+},
+{
+"id": 1936,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write about the game you play alone, solitaire, sudoku, a ball against a wall, and what it calms."
+},
+{
+"id": 1937,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write a poem in which the bench is the best seat in the house for watching people you love."
+},
+{
+"id": 1938,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write about the hike you did not finish and the summit you made up for the people who asked."
+},
+{
+"id": 1939,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write a poem about a rematch you have been waiting for for twenty years."
+},
+{
+"id": 1940,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write about rules you made up for a game as a kid that you still follow in life."
+},
+{
+"id": 1941,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write a poem about a sports jersey with a retired player's name on it, and the father who bought it for you the year he left."
+},
+{
+"id": 1942,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write about cheating at a game once and the guilt that outlasted the win."
+},
+{
+"id": 1943,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write a poem in which a tie game is the most honest outcome."
+},
+{
+"id": 1944,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write about the strategy you used to avoid gym class and what you were really avoiding."
+},
+{
+"id": 1945,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write a poem about a race where you finished last and the crowd cheered loudest for you."
+},
+{
+"id": 1946,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write about a ping-pong table in a garage where a family learned to talk."
+},
+{
+"id": 1947,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write a poem about the perfect throw, kick, or swing that no one saw."
+},
+{
+"id": 1948,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write about the game night that brought your friends back together after years apart."
+},
+{
+"id": 1949,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write a poem in which you describe your life as a game with no instructions, and you are still learning the rules."
+},
+{
+"id": 1950,
+"section": "Games, Sports & the Art of Losing",
+"text": "Write a poem about shaking hands with the person who just beat you, and meaning it."
+},
+{
+"id": 1951,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write a poem about the first poem you ever wrote and what it was trying to say."
+},
+{
+"id": 1952,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write about your notebook as a confidant who knows more about you than any person does."
+},
+{
+"id": 1953,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write a poem in which a blank page is a field after a snowfall and you are afraid to leave footprints."
+},
+{
+"id": 1954,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write about the line you have been carrying for years, waiting for the right poem."
+},
+{
+"id": 1955,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write a poem about writer's block as a locked door with a light on behind it."
+},
+{
+"id": 1956,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write about the pen you lost and the poem you were in the middle of when it disappeared."
+},
+{
+"id": 1957,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write a poem in which you interview your muse and ask why it only shows up at 2 a.m."
+},
+{
+"id": 1958,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write about the poet whose book you stole from a library and never returned."
+},
+{
+"id": 1959,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write a poem about the editing process as surgery, removing what you love to save the body."
+},
+{
+"id": 1960,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write about the rejection letter you keep framed on your wall."
+},
+{
+"id": 1961,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write a poem in which you argue with the poem while you are writing it."
+},
+{
+"id": 1962,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write about why you write, in exactly ten reasons, the tenth one being the truest."
+},
+{
+"id": 1963,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write a poem about the word you cannot stop using and the day you banned it."
+},
+{
+"id": 1964,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write about the poem that hurt someone you love and whether you should have written it."
+},
+{
+"id": 1965,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write a poem in which your poems are children, and you admit you have a favorite."
+},
+{
+"id": 1966,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write about the first time a poem made you cry, naming the poem and where you were."
+},
+{
+"id": 1967,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write a poem about the line break as a breath, a cliff, or a held hand."
+},
+{
+"id": 1968,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write about a writing workshop where someone said exactly what you needed to hear."
+},
+{
+"id": 1969,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write a poem in which you write about writing about writing, and find your way out."
+},
+{
+"id": 1970,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write about the poems you burned or deleted, and the ash or white space they left."
+},
+{
+"id": 1971,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write a poem about Mary Oliver's question, what will you do with your one wild and precious life, answered with a list of poems."
+},
+{
+"id": 1972,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write about the moment a poem changed direction in the middle of drafting and became better than you planned."
+},
+{
+"id": 1973,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write a poem in which a metaphor gets out of control and takes over the whole piece."
+},
+{
+"id": 1974,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write about your writing desk, or the lack of one, and where you actually write."
+},
+{
+"id": 1975,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write a poem about the crumpled drafts on the floor as a field of fallen birds."
+},
+{
+"id": 1976,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write about the poem you will never perform because it is too true."
+},
+{
+"id": 1977,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write a poem in which the poem asks you for permission to tell the truth."
+},
+{
+"id": 1978,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write about the poet you were when you started and the poet you are now, side by side."
+},
+{
+"id": 1979,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write a poem about a typo in a published poem that you have learned to love."
+},
+{
+"id": 1980,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write about stealing a line from a conversation you overheard and the guilt that made it better."
+},
+{
+"id": 1981,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write a poem in which every stanza is a different draft of the same first line."
+},
+{
+"id": 1982,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write about why you still write poems in a world that does not pay for them."
+},
+{
+"id": 1983,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write a poem about reading your poem to someone who was in it."
+},
+{
+"id": 1984,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write about the poetry book on your nightstand and the dog-eared page that saved you."
+},
+{
+"id": 1985,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write a poem in which you list the rules of poetry and then break each one in the following line."
+},
+{
+"id": 1986,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write about the voice memo of a poem you recorded while driving, and the line the wind ate."
+},
+{
+"id": 1987,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write a poem about the silence after you finish writing something true."
+},
+{
+"id": 1988,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write about a poem that came to you fully formed, and how you did not trust it."
+},
+{
+"id": 1989,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write a poem in which you are a translator for your own heart, and the heart speaks a dying language."
+},
+{
+"id": 1990,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write about a poetry reading where the audience was three people and it was perfect."
+},
+{
+"id": 1991,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write a poem about the poem you are afraid you will never write, and give it a working title."
+},
+{
+"id": 1992,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write about how poetry taught you to pay attention."
+},
+{
+"id": 1993,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write a poem in which you thank the poets who made you, naming them, and what each one gave you."
+},
+{
+"id": 1994,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write about the day you started calling yourself a poet out loud."
+},
+{
+"id": 1995,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write a poem about the margins of your notebook and the doodles that are better than the poems."
+},
+{
+"id": 1996,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write about revision as a form of forgiveness."
+},
+{
+"id": 1997,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write a poem in which a poem survives a house fire, a breakup, and a move, and is still on your hard drive."
+},
+{
+"id": 1998,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write about the poem someone else wrote that you wish you had written, and what it reveals about you."
+},
+{
+"id": 1999,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write a poem about the period at the end of a poem, and the decision to put it there."
+},
+{
+"id": 2000,
+"section": "Ars Poetica: Writing About Writing",
+"text": "Write the last prompt you would give yourself, and then answer it."
 }
 ]
 };
