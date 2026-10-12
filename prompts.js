@@ -219,6 +219,11 @@ window.PROMPTS = {
 "n": 44,
 "name": "Ars Poetica: Writing About Writing",
 "blurb": "The notebook, the blank page, and why you keep doing this."
+},
+{
+"n": 45,
+"name": "Famous Poets POV",
+"blurb": "Borrow a master's eyes for one poem: 20 poets, 10 prompts each, written in their way of seeing."
 }
 ],
 "prompts": [
@@ -10221,6 +10226,1206 @@ window.PROMPTS = {
 "id": 2000,
 "section": "Ars Poetica: Writing About Writing",
 "text": "Write the last prompt you would give yourself, and then answer it."
+},
+{
+"id": 2001,
+"section": "Famous Poets POV",
+"poet": "Mary Oliver",
+"text": "Mary Oliver: Spend ten minutes watching one living thing outside (a crow, a slug, a fern on a stump) and write only what it does, then end with a single question to yourself about how you spend your one life."
+},
+{
+"id": 2002,
+"section": "Famous Poets POV",
+"poet": "Mary Oliver",
+"text": "Mary Oliver: Write a poem that walks a trail from start to finish in real time, with each stanza as one stop, and let a dead thing you find along the way (a feather, a husk, a fish on the shore) shift the poem's weather without ever pulling for tears."
+},
+{
+"id": 2003,
+"section": "Famous Poets POV",
+"poet": "Mary Oliver",
+"text": "Mary Oliver: Begin with an instruction to the reader (\"Look,\" \"Kneel,\" \"Listen\") and build a poem of plain imperatives that teaches someone how to pay attention to rain."
+},
+{
+"id": 2004,
+"section": "Famous Poets POV",
+"poet": "Mary Oliver",
+"text": "Mary Oliver: Describe a predator eating, a heron or an owl or an orca, with total calm and no judgment, then turn in the last three lines to what that calm asks of you."
+},
+{
+"id": 2005,
+"section": "Famous Poets POV",
+"poet": "Mary Oliver",
+"text": "Mary Oliver: Write a morning poem that uses no adjectives for the first eight lines, only nouns and verbs, and let the first adjective arrive like sunrise."
+},
+{
+"id": 2006,
+"section": "Famous Poets POV",
+"poet": "Mary Oliver",
+"text": "Mary Oliver: Choose a body of water you return to (Puget Sound, a creek, a puddle on your block) and write it a poem of gratitude that also admits the water will outlast you."
+},
+{
+"id": 2007,
+"section": "Famous Poets POV",
+"poet": "Mary Oliver",
+"text": "Mary Oliver: Write a poem in which you are out of your depth in nature, lost or soaked or too cold, and let the humility be the point instead of the danger."
+},
+{
+"id": 2008,
+"section": "Famous Poets POV",
+"poet": "Mary Oliver",
+"text": "Mary Oliver: Write about an animal you once feared and now love, in long, clear sentences you could say aloud in one breath each."
+},
+{
+"id": 2009,
+"section": "Famous Poets POV",
+"poet": "Mary Oliver",
+"text": "Mary Oliver: Make a list of six things you would miss after you die, all of them small and wild, then cut it down to the one that makes the best ending line."
+},
+{
+"id": 2010,
+"section": "Famous Poets POV",
+"poet": "Mary Oliver",
+"text": "Mary Oliver: Write a prayer to no one in particular, set entirely outdoors, where the act of noticing is the only form of worship allowed."
+},
+{
+"id": 2011,
+"section": "Famous Poets POV",
+"poet": "Walt Whitman",
+"text": "Walt Whitman: Write a catalog poem of at least twenty lines, each beginning with \"I see,\" that moves through one Seattle bus route from first stop to last and gives every rider equal dignity."
+},
+{
+"id": 2012,
+"section": "Famous Poets POV",
+"poet": "Walt Whitman",
+"text": "Walt Whitman: Write a poem praising your own body part by part, from scalp to heel, without one line of apology or irony."
+},
+{
+"id": 2013,
+"section": "Famous Poets POV",
+"poet": "Walt Whitman",
+"text": "Walt Whitman: Address a stranger fifty years in the future directly (\"you who read this\") and tell them what the light looked like today, then insist you are still with them."
+},
+{
+"id": 2014,
+"section": "Famous Poets POV",
+"poet": "Walt Whitman",
+"text": "Walt Whitman: Write a poem that contains a contradiction you refuse to resolve, and say so out loud in the poem, the way you would admit it to a friend."
+},
+{
+"id": 2015,
+"section": "Famous Poets POV",
+"poet": "Walt Whitman",
+"text": "Walt Whitman: List every job held by people in your family tree, line by line, in long, breathing free verse, and let the list itself become a song of the working body."
+},
+{
+"id": 2016,
+"section": "Famous Poets POV",
+"poet": "Walt Whitman",
+"text": "Walt Whitman: Write a poem in which you become the grass, the gutter, the ferry, and the crowd in turn, with each section opening \"I am.\""
+},
+{
+"id": 2017,
+"section": "Famous Poets POV",
+"poet": "Walt Whitman",
+"text": "Walt Whitman: Write a lavish, unembarrassed love poem to your whole city, including its ugliest corners, using anaphora at least five times."
+},
+{
+"id": 2018,
+"section": "Famous Poets POV",
+"poet": "Walt Whitman",
+"text": "Walt Whitman: Take one breath-long line and make it at least forty words, then follow it with a line of three words, and build the poem by alternating that tide."
+},
+{
+"id": 2019,
+"section": "Famous Poets POV",
+"poet": "Walt Whitman",
+"text": "Walt Whitman: Write an elegy for someone you never met but read about in the news, as if you were standing at their funeral in the crowd."
+},
+{
+"id": 2020,
+"section": "Famous Poets POV",
+"poet": "Walt Whitman",
+"text": "Walt Whitman: Write a poem that ends by giving the reader an instruction for where to find you after you are gone."
+},
+{
+"id": 2021,
+"section": "Famous Poets POV",
+"poet": "Emily Dickinson",
+"text": "Emily Dickinson: Write a poem of four quatrains in common meter (alternating eight and six syllables) about a kitchen object that suddenly reveals something about death."
+},
+{
+"id": 2022,
+"section": "Famous Poets POV",
+"poet": "Emily Dickinson",
+"text": "Emily Dickinson: Use at least six dashes in a twelve-line poem, letting each one act as a held breath or a door left open."
+},
+{
+"id": 2023,
+"section": "Famous Poets POV",
+"poet": "Emily Dickinson",
+"text": "Emily Dickinson: Personify an abstract idea (Hope, Grief, Shame) as a houseguest with specific manners, and write the visit in short rhymed stanzas."
+},
+{
+"id": 2024,
+"section": "Famous Poets POV",
+"poet": "Emily Dickinson",
+"text": "Emily Dickinson: Use only slant rhyme, never full rhyme, in a poem about the moment right before you learned bad news."
+},
+{
+"id": 2025,
+"section": "Famous Poets POV",
+"poet": "Emily Dickinson",
+"text": "Emily Dickinson: Write a riddle poem about something enormous (the ocean, God, a breakup) without ever naming it, using only one tiny image to carry it."
+},
+{
+"id": 2026,
+"section": "Famous Poets POV",
+"poet": "Emily Dickinson",
+"text": "Emily Dickinson: Capitalize three Nouns that would not normally be capitalized, and let those capitalized words become the hidden spine of the poem."
+},
+{
+"id": 2027,
+"section": "Famous Poets POV",
+"poet": "Emily Dickinson",
+"text": "Emily Dickinson: Write eight lines that begin with \"I\" and describe a feeling as if it were a physical place with a floor, a ceiling, and a draft."
+},
+{
+"id": 2028,
+"section": "Famous Poets POV",
+"poet": "Emily Dickinson",
+"text": "Emily Dickinson: Write a poem about staying home while the world happens outside, and make the room feel larger than the world by the final line."
+},
+{
+"id": 2029,
+"section": "Famous Poets POV",
+"poet": "Emily Dickinson",
+"text": "Emily Dickinson: Choose a bee, a fly, a robin, or a spider, and let it witness something human it cannot understand, in a poem under fifteen lines."
+},
+{
+"id": 2030,
+"section": "Famous Poets POV",
+"poet": "Emily Dickinson",
+"text": "Emily Dickinson: Write a poem whose last line flips the meaning of the first line, using no more than sixty words total."
+},
+{
+"id": 2031,
+"section": "Famous Poets POV",
+"poet": "Sylvia Plath",
+"text": "Sylvia Plath: Write a poem in tercets where every stanza contains one image so sharp it could cut, such as a scalpel, a hook, or a cracked mirror."
+},
+{
+"id": 2032,
+"section": "Famous Poets POV",
+"poet": "Sylvia Plath",
+"text": "Sylvia Plath: Address someone who has power over you (a parent, a doctor, a former self) with a voice that starts polite and ends burning."
+},
+{
+"id": 2033,
+"section": "Famous Poets POV",
+"poet": "Sylvia Plath",
+"text": "Sylvia Plath: Describe a hospital, waiting room, or clinic in hyper-precise color words (no \"red,\" but \"arterial,\" \"tulip,\" \"lacquer\") until the room seems alive."
+},
+{
+"id": 2034,
+"section": "Famous Poets POV",
+"poet": "Sylvia Plath",
+"text": "Sylvia Plath: Write a poem in which your body becomes an object, a statue, a cake, a lamp, and stay inside the metaphor for the whole poem."
+},
+{
+"id": 2035,
+"section": "Famous Poets POV",
+"poet": "Sylvia Plath",
+"text": "Sylvia Plath: Use a nursery-rhyme rhythm, like the bounce of a jump-rope chant, to talk about something terrifying."
+},
+{
+"id": 2036,
+"section": "Famous Poets POV",
+"poet": "Sylvia Plath",
+"text": "Sylvia Plath: Write a morning poem from inside insomnia, where the sunrise feels like an accusation, using hard consonants on purpose."
+},
+{
+"id": 2037,
+"section": "Famous Poets POV",
+"poet": "Sylvia Plath",
+"text": "Sylvia Plath: Write about the moon as a person in your family, and give it one specific cruelty and one specific tenderness."
+},
+{
+"id": 2038,
+"section": "Famous Poets POV",
+"poet": "Sylvia Plath",
+"text": "Sylvia Plath: Make a poem of short lines (no more than five words each) that builds to a single explosive image in the last line."
+},
+{
+"id": 2039,
+"section": "Famous Poets POV",
+"poet": "Sylvia Plath",
+"text": "Sylvia Plath: Write a birthday poem that feels like a resurrection, with the speaker rising out of something they were buried in."
+},
+{
+"id": 2040,
+"section": "Famous Poets POV",
+"poet": "Sylvia Plath",
+"text": "Sylvia Plath: Write about a beekeeper, a gardener, or a baker at work, and let the craft turn slowly into a metaphor for controlling your own fury."
+},
+{
+"id": 2041,
+"section": "Famous Poets POV",
+"poet": "Langston Hughes",
+"text": "Langston Hughes: Write a twelve-bar blues poem in AAB stanzas, repeating the first line with a small change and answering it with a punchline of sorrow or wit."
+},
+{
+"id": 2042,
+"section": "Famous Poets POV",
+"poet": "Langston Hughes",
+"text": "Langston Hughes: Write about a dream that keeps getting postponed, with each stanza asking a \"what happens\" question built around a concrete household image."
+},
+{
+"id": 2043,
+"section": "Famous Poets POV",
+"poet": "Langston Hughes",
+"text": "Langston Hughes: Write a poem in the voice of a working person (a barista, a bus driver, a nurse on night shift) speaking to their child about the stairs of their life."
+},
+{
+"id": 2044,
+"section": "Famous Poets POV",
+"poet": "Langston Hughes",
+"text": "Langston Hughes: Let a jazz rhythm drive the poem by repeating one phrase as a riff at least four times, and change the meaning of the phrase each time."
+},
+{
+"id": 2045,
+"section": "Famous Poets POV",
+"poet": "Langston Hughes",
+"text": "Langston Hughes: Write a poem that names a river your people have known, and connect it across generations in plain, majestic lines."
+},
+{
+"id": 2046,
+"section": "Famous Poets POV",
+"poet": "Langston Hughes",
+"text": "Langston Hughes: Write a short, sly poem (under ten lines) where an ordinary person gets the last laugh on someone powerful."
+},
+{
+"id": 2047,
+"section": "Famous Poets POV",
+"poet": "Langston Hughes",
+"text": "Langston Hughes: Describe a single block of your neighborhood at midnight, with music leaking from one window, and give everyone on the street dignity."
+},
+{
+"id": 2048,
+"section": "Famous Poets POV",
+"poet": "Langston Hughes",
+"text": "Langston Hughes: Write a poem that begins with \"I, too\" and claims a seat at a table someone tried to keep you from."
+},
+{
+"id": 2049,
+"section": "Famous Poets POV",
+"poet": "Langston Hughes",
+"text": "Langston Hughes: Write a dialogue poem between a pianist and the piano, using the sound of the keys as line breaks."
+},
+{
+"id": 2050,
+"section": "Famous Poets POV",
+"poet": "Langston Hughes",
+"text": "Langston Hughes: Write a poem about hope that never uses the word \"hope,\" built entirely of what a tired person does the morning after a hard day."
+},
+{
+"id": 2051,
+"section": "Famous Poets POV",
+"poet": "Adrienne Rich",
+"text": "Adrienne Rich: Write a poem that starts inside your kitchen and ends inside a law, a policy, or a headline, without a single break in logic."
+},
+{
+"id": 2052,
+"section": "Famous Poets POV",
+"poet": "Adrienne Rich",
+"text": "Adrienne Rich: Write a poem that dives, literally or as metaphor, to the wreck of something historical, and describe what you find instead of what the story claimed."
+},
+{
+"id": 2053,
+"section": "Famous Poets POV",
+"poet": "Adrienne Rich",
+"text": "Adrienne Rich: Name one thing you were taught to be silent about, then write a poem that says it plainly in the first line and spends the rest examining why it was hidden."
+},
+{
+"id": 2054,
+"section": "Famous Poets POV",
+"poet": "Adrienne Rich",
+"text": "Adrienne Rich: Write a poem in numbered sections (at least five) where each section is a different room of one argument you are having with your country."
+},
+{
+"id": 2055,
+"section": "Famous Poets POV",
+"poet": "Adrienne Rich",
+"text": "Adrienne Rich: Write a love poem between two people that refuses every romance cliché and focuses on the labor of loving each other honestly."
+},
+{
+"id": 2056,
+"section": "Famous Poets POV",
+"poet": "Adrienne Rich",
+"text": "Adrienne Rich: Revise a poem you wrote years ago in conversation with your past self, keeping the old lines in italics and answering them in plain type."
+},
+{
+"id": 2057,
+"section": "Famous Poets POV",
+"poet": "Adrienne Rich",
+"text": "Adrienne Rich: Write about a map, an atlas, or a census, and ask who drew the lines and who was left out of them."
+},
+{
+"id": 2058,
+"section": "Famous Poets POV",
+"poet": "Adrienne Rich",
+"text": "Adrienne Rich: Write a poem whose title is a date, and let the poem show how one private event that day connects to a public one."
+},
+{
+"id": 2059,
+"section": "Famous Poets POV",
+"poet": "Adrienne Rich",
+"text": "Adrienne Rich: Write about a woman's hands doing work no one praises, and let the tone be clear and exact rather than sentimental."
+},
+{
+"id": 2060,
+"section": "Famous Poets POV",
+"poet": "Adrienne Rich",
+"text": "Adrienne Rich: Write a poem that ends with a vow you can actually keep, stated in the plainest possible sentence."
+},
+{
+"id": 2061,
+"section": "Famous Poets POV",
+"poet": "Ocean Vuong",
+"text": "Ocean Vuong: Write a letter-poem to a parent who cannot read the language you write in, and let that impossibility shape every line."
+},
+{
+"id": 2062,
+"section": "Famous Poets POV",
+"poet": "Ocean Vuong",
+"text": "Ocean Vuong: Write a poem where one tender gesture (washing hair, cutting nails, peeling fruit) holds a history of violence just beneath it."
+},
+{
+"id": 2063,
+"section": "Famous Poets POV",
+"poet": "Ocean Vuong",
+"text": "Ocean Vuong: Use white space on the page as silence, dropping lines down and across, so that a breath becomes visible between two words."
+},
+{
+"id": 2064,
+"section": "Famous Poets POV",
+"poet": "Ocean Vuong",
+"text": "Ocean Vuong: Write a poem that mixes the sacred and the bodily, with a church and a boy's body in the same stanza, and let neither win."
+},
+{
+"id": 2065,
+"section": "Famous Poets POV",
+"poet": "Ocean Vuong",
+"text": "Ocean Vuong: Write a poem in which you speak to your younger self as \"you,\" with one sentence of forgiveness repeated in different forms."
+},
+{
+"id": 2066,
+"section": "Famous Poets POV",
+"poet": "Ocean Vuong",
+"text": "Ocean Vuong: Write about a nail salon, a restaurant kitchen, or a factory floor where someone you love labored, using sensory detail that feels tender rather than tragic."
+},
+{
+"id": 2067,
+"section": "Famous Poets POV",
+"poet": "Ocean Vuong",
+"text": "Ocean Vuong: Begin with a sentence of war or migration, then make each following line smaller and more intimate until it ends on a single touch."
+},
+{
+"id": 2068,
+"section": "Famous Poets POV",
+"poet": "Ocean Vuong",
+"text": "Ocean Vuong: Write a poem built from fragments of overheard family phrases, translated imperfectly, and let the mistranslations become the music."
+},
+{
+"id": 2069,
+"section": "Famous Poets POV",
+"poet": "Ocean Vuong",
+"text": "Ocean Vuong: Write about a time desire felt dangerous, and render it in images of light (lamps, headlights, matches) rather than direct description."
+},
+{
+"id": 2070,
+"section": "Famous Poets POV",
+"poet": "Ocean Vuong",
+"text": "Ocean Vuong: Write a poem titled with an instruction (\"Someday I'll Love…,\" \"Notes on…\") and let it be both a self-blessing and an elegy."
+},
+{
+"id": 2071,
+"section": "Famous Poets POV",
+"poet": "Audre Lorde",
+"text": "Audre Lorde: Write a poem that names every part of your identity in the first stanza, in your own order, and refuses to let anyone else pick which one matters most."
+},
+{
+"id": 2072,
+"section": "Famous Poets POV",
+"poet": "Audre Lorde",
+"text": "Audre Lorde: Write about joy as a source of power, with a scene of pleasure so specific (cooking, dancing, touch) that it becomes a political act."
+},
+{
+"id": 2073,
+"section": "Famous Poets POV",
+"poet": "Audre Lorde",
+"text": "Audre Lorde: Write a poem that begins \"I am afraid\" and ends with you speaking anyway, showing the cost of silence along the way."
+},
+{
+"id": 2074,
+"section": "Famous Poets POV",
+"poet": "Audre Lorde",
+"text": "Audre Lorde: Write a litany in which each stanza begins with \"For those of us who\" and names a group the world wants quiet."
+},
+{
+"id": 2075,
+"section": "Famous Poets POV",
+"poet": "Audre Lorde",
+"text": "Audre Lorde: Write a poem addressed to an illness, injury, or diagnosis, refusing to call it a battle and instead naming exactly what it has taught you."
+},
+{
+"id": 2076,
+"section": "Famous Poets POV",
+"poet": "Audre Lorde",
+"text": "Audre Lorde: Write a love poem between women, or between people the world does not center, that treats the erotic as knowledge rather than secret."
+},
+{
+"id": 2077,
+"section": "Famous Poets POV",
+"poet": "Audre Lorde",
+"text": "Audre Lorde: Write a poem about your mother's hands, voice, or kitchen, then turn it toward the mother you have had to become for yourself."
+},
+{
+"id": 2078,
+"section": "Famous Poets POV",
+"poet": "Audre Lorde",
+"text": "Audre Lorde: Take one sentence of anger you have swallowed and write a poem that uses that anger as fuel for clarity, not destruction."
+},
+{
+"id": 2079,
+"section": "Famous Poets POV",
+"poet": "Audre Lorde",
+"text": "Audre Lorde: Write a poem rooted in an ancestral place or myth, and let a goddess, spirit, or ancestor speak directly through you for one stanza."
+},
+{
+"id": 2080,
+"section": "Famous Poets POV",
+"poet": "Audre Lorde",
+"text": "Audre Lorde: Write a poem that ends with a demand, a clear and specific thing you require from the world."
+},
+{
+"id": 2081,
+"section": "Famous Poets POV",
+"poet": "Pablo Neruda",
+"text": "Pablo Neruda: Write an ode to a single ordinary object in your home (a spoon, a wool sock, a jar of salt), using very short lines that tumble down the page."
+},
+{
+"id": 2082,
+"section": "Famous Poets POV",
+"poet": "Pablo Neruda",
+"text": "Pablo Neruda: Write an ode to a vegetable or fruit at the farmers' market, giving it a whole cosmos of history, labor, and sensuality."
+},
+{
+"id": 2083,
+"section": "Famous Poets POV",
+"poet": "Pablo Neruda",
+"text": "Pablo Neruda: Write a love poem that compares the beloved only to things found within ten feet of where you are sitting."
+},
+{
+"id": 2084,
+"section": "Famous Poets POV",
+"poet": "Pablo Neruda",
+"text": "Pablo Neruda: Write a poem that asks at least twelve impossible questions in a row, like \"Why does the rain apologize to no one?\""
+},
+{
+"id": 2085,
+"section": "Famous Poets POV",
+"poet": "Pablo Neruda",
+"text": "Pablo Neruda: Write an ode to a tool your grandparent used, celebrating the hands that wore it smooth."
+},
+{
+"id": 2086,
+"section": "Famous Poets POV",
+"poet": "Pablo Neruda",
+"text": "Pablo Neruda: Write a sad love poem that ends with a line about forgetting, built from images of night, distance, and stars."
+},
+{
+"id": 2087,
+"section": "Famous Poets POV",
+"poet": "Pablo Neruda",
+"text": "Pablo Neruda: Write an ode to a place's ocean or weather, letting the poem swell and crash in long, breathless lines."
+},
+{
+"id": 2088,
+"section": "Famous Poets POV",
+"poet": "Pablo Neruda",
+"text": "Pablo Neruda: Write a poem praising a common worker (a fisher, a miner, a baker) in a tone usually reserved for kings."
+},
+{
+"id": 2089,
+"section": "Famous Poets POV",
+"poet": "Pablo Neruda",
+"text": "Pablo Neruda: Write an ode to something you used to hate, like the dentist, the alarm clock, or the rain in February, and fall in love with it by the end."
+},
+{
+"id": 2090,
+"section": "Famous Poets POV",
+"poet": "Pablo Neruda",
+"text": "Pablo Neruda: Write a poem where your body is a country, naming its rivers, its borders, and its revolutions."
+},
+{
+"id": 2091,
+"section": "Famous Poets POV",
+"poet": "Rupi Kaur",
+"text": "Rupi Kaur: Write a poem under forty words, all lowercase, with no punctuation except one period at the very end."
+},
+{
+"id": 2092,
+"section": "Famous Poets POV",
+"poet": "Rupi Kaur",
+"text": "Rupi Kaur: Write a three-part sequence titled with the stages of healing (\"the hurting,\" \"the loving,\" \"the healing\") and keep each piece under eight lines."
+},
+{
+"id": 2093,
+"section": "Famous Poets POV",
+"poet": "Rupi Kaur",
+"text": "Rupi Kaur: Write a short poem that speaks directly to a younger girl or boy who will one day feel what you felt, beginning with \"you.\""
+},
+{
+"id": 2094,
+"section": "Famous Poets POV",
+"poet": "Rupi Kaur",
+"text": "Rupi Kaur: Write a poem about your mother's sacrifices in plain sentences, line-broken so that each break lands on a word of weight."
+},
+{
+"id": 2095,
+"section": "Famous Poets POV",
+"poet": "Rupi Kaur",
+"text": "Rupi Kaur: Write a poem whose last line is a single word that reframes everything above it."
+},
+{
+"id": 2096,
+"section": "Famous Poets POV",
+"poet": "Rupi Kaur",
+"text": "Rupi Kaur: Write a poem about the body (hair, skin, scars, belly) that refuses shame in simple, declarative language."
+},
+{
+"id": 2097,
+"section": "Famous Poets POV",
+"poet": "Rupi Kaur",
+"text": "Rupi Kaur: Write a poem about an immigrant parent's accent or hands, using no metaphors at all, only plain truths."
+},
+{
+"id": 2098,
+"section": "Famous Poets POV",
+"poet": "Rupi Kaur",
+"text": "Rupi Kaur: Write a two-line poem that names a heartbreak and a lesson, and pair it with a sketch idea described in brackets below it."
+},
+{
+"id": 2099,
+"section": "Famous Poets POV",
+"poet": "Rupi Kaur",
+"text": "Rupi Kaur: Write a poem that ends with a self-affirmation you actually believe, stated without decoration."
+},
+{
+"id": 2100,
+"section": "Famous Poets POV",
+"poet": "Rupi Kaur",
+"text": "Rupi Kaur: Write a poem about a lover leaving that turns, in the final three lines, toward the self as the one who stays."
+},
+{
+"id": 2101,
+"section": "Famous Poets POV",
+"poet": "Andrea Gibson",
+"text": "Andrea Gibson: Write a performance poem that starts in a soft whisper of a memory and climbs to a shout of queer rage, then lands back in tenderness for the last two lines."
+},
+{
+"id": 2102,
+"section": "Famous Poets POV",
+"poet": "Andrea Gibson",
+"text": "Andrea Gibson: Write a love letter to your own nervous system, including its panic, in long, run-on spoken lines that feel like one breath."
+},
+{
+"id": 2103,
+"section": "Famous Poets POV",
+"poet": "Andrea Gibson",
+"text": "Andrea Gibson: Write a poem addressed to a younger queer kid, in which you promise them one specific, ordinary joy that is coming."
+},
+{
+"id": 2104,
+"section": "Famous Poets POV",
+"poet": "Andrea Gibson",
+"text": "Andrea Gibson: Write about a dog, a pet, or an animal who loved you through depression, and let the humor and the grief share every stanza."
+},
+{
+"id": 2105,
+"section": "Famous Poets POV",
+"poet": "Andrea Gibson",
+"text": "Andrea Gibson: Write a poem that repeats one line like a chorus (\"I want to be,\" \"This is what\"), and change one word each time so the meaning deepens."
+},
+{
+"id": 2106,
+"section": "Famous Poets POV",
+"poet": "Andrea Gibson",
+"text": "Andrea Gibson: Write about gender as a weather system, mapping how it moves through you on a single ordinary day."
+},
+{
+"id": 2107,
+"section": "Famous Poets POV",
+"poet": "Andrea Gibson",
+"text": "Andrea Gibson: Write a poem about a protest, or a moment you chose to speak up, that holds both fury at the world and love for the people beside you."
+},
+{
+"id": 2108,
+"section": "Famous Poets POV",
+"poet": "Andrea Gibson",
+"text": "Andrea Gibson: Write about an illness or a fear of dying as a conversation in which you keep interrupting yourself to notice something beautiful."
+},
+{
+"id": 2109,
+"section": "Famous Poets POV",
+"poet": "Andrea Gibson",
+"text": "Andrea Gibson: Write a breakup poem that is mostly gratitude, and let one line of rage break through near the middle like a crack in a window."
+},
+{
+"id": 2110,
+"section": "Famous Poets POV",
+"poet": "Andrea Gibson",
+"text": "Andrea Gibson: Write a poem that ends by telling the audience exactly what you want them to do when they walk out of the room."
+},
+{
+"id": 2111,
+"section": "Famous Poets POV",
+"poet": "Rudy Francisco",
+"text": "Rudy Francisco: Write a spoken-word poem that sets up a familiar idea in the first half and flips it with a surprising turn line that makes the audience gasp."
+},
+{
+"id": 2112,
+"section": "Famous Poets POV",
+"poet": "Rudy Francisco",
+"text": "Rudy Francisco: Write a poem built around one extended metaphor (your heart as a used car, your anxiety as a roommate) and push it until it breaks open."
+},
+{
+"id": 2113,
+"section": "Famous Poets POV",
+"poet": "Rudy Francisco",
+"text": "Rudy Francisco: Write a poem that starts with a joke or a light observation and ends somewhere devastating, without changing your plain, conversational tone."
+},
+{
+"id": 2114,
+"section": "Famous Poets POV",
+"poet": "Rudy Francisco",
+"text": "Rudy Francisco: Write a list poem of \"things I've learned,\" and make the last item land like a punchline and a prayer at once."
+},
+{
+"id": 2115,
+"section": "Famous Poets POV",
+"poet": "Rudy Francisco",
+"text": "Rudy Francisco: Write about your own body (height, weight, voice, hair) with a confident wit that turns insecurity into a mic-drop line."
+},
+{
+"id": 2116,
+"section": "Famous Poets POV",
+"poet": "Rudy Francisco",
+"text": "Rudy Francisco: Write a poem to an ex or an old friend that uses everyday images, like a phone screen or a kitchen table, to deliver a clean, quotable closing line."
+},
+{
+"id": 2117,
+"section": "Famous Poets POV",
+"poet": "Rudy Francisco",
+"text": "Rudy Francisco: Write a poem about masculinity that names one moment you were taught not to cry and one moment you did anyway."
+},
+{
+"id": 2118,
+"section": "Famous Poets POV",
+"poet": "Rudy Francisco",
+"text": "Rudy Francisco: Write a poem in which every stanza ends with a short sentence of five words or fewer that could stand alone as a quote."
+},
+{
+"id": 2119,
+"section": "Famous Poets POV",
+"poet": "Rudy Francisco",
+"text": "Rudy Francisco: Write a gratitude poem to someone who raised you, using humor as the door and tenderness as the room."
+},
+{
+"id": 2120,
+"section": "Famous Poets POV",
+"poet": "Rudy Francisco",
+"text": "Rudy Francisco: Write a poem that answers a question you are often asked, with each stanza giving a different, increasingly honest answer."
+},
+{
+"id": 2121,
+"section": "Famous Poets POV",
+"poet": "Harry Baker",
+"text": "Harry Baker: Write a playful love poem where every line hinges on a pun or wordplay, but let the final line be sincere and unexpectedly moving."
+},
+{
+"id": 2122,
+"section": "Famous Poets POV",
+"poet": "Harry Baker",
+"text": "Harry Baker: Write a poem built on a mathematical idea (prime numbers, fractions, infinity) that turns into a poem about people."
+},
+{
+"id": 2123,
+"section": "Famous Poets POV",
+"poet": "Harry Baker",
+"text": "Harry Baker: Write a poem that tells the same story twice, first forward and then reversed line by line, so the meaning changes completely."
+},
+{
+"id": 2124,
+"section": "Famous Poets POV",
+"poet": "Harry Baker",
+"text": "Harry Baker: Write a poem in strict rhyme and bouncy meter about something ridiculous, like a sentient sandwich or a dinosaur's crush, and sneak a real truth in at the end."
+},
+{
+"id": 2125,
+"section": "Famous Poets POV",
+"poet": "Harry Baker",
+"text": "Harry Baker: Write a poem that uses only words beginning with one letter, and make it tell a coherent and charming story."
+},
+{
+"id": 2126,
+"section": "Famous Poets POV",
+"poet": "Harry Baker",
+"text": "Harry Baker: Write a performance piece in which you correct yourself mid-poem (\"no wait, let me start again\") and use the restarts as the structure."
+},
+{
+"id": 2127,
+"section": "Famous Poets POV",
+"poet": "Harry Baker",
+"text": "Harry Baker: Write a poem from the point of view of an object everyone overlooks (a paper clip, a bus timetable), full of cheerful self-importance."
+},
+{
+"id": 2128,
+"section": "Famous Poets POV",
+"poet": "Harry Baker",
+"text": "Harry Baker: Write a poem about optimism that is genuinely funny, with at least three laugh lines and one line that could make someone tear up."
+},
+{
+"id": 2129,
+"section": "Famous Poets POV",
+"poet": "Harry Baker",
+"text": "Harry Baker: Write a poem in which a common phrase or idiom is taken completely literally from beginning to end."
+},
+{
+"id": 2130,
+"section": "Famous Poets POV",
+"poet": "Harry Baker",
+"text": "Harry Baker: Write a poem in two voices or two languages (even made-up ones) that only make sense when read together, like a duet."
+},
+{
+"id": 2131,
+"section": "Famous Poets POV",
+"poet": "Lucas Jones",
+"text": "Lucas Jones: Write a poem meant to be filmed in one continuous close-up shot, speaking directly to the camera as if to one person you love."
+},
+{
+"id": 2132,
+"section": "Famous Poets POV",
+"poet": "Lucas Jones",
+"text": "Lucas Jones: Write a poem about a quiet, ordinary moment (making tea, folding laundry, a car ride home) that slowly reveals it is about grief or longing."
+},
+{
+"id": 2133,
+"section": "Famous Poets POV",
+"poet": "Lucas Jones",
+"text": "Lucas Jones: Write a poem that addresses \"you\" so intimately the viewer feels personally seen, using specific details like the color of a sweater or a scar on a knuckle."
+},
+{
+"id": 2134,
+"section": "Famous Poets POV",
+"poet": "Lucas Jones",
+"text": "Lucas Jones: Write a short poem designed to be under ninety seconds spoken aloud, where the emotional turn comes at exactly the sixty-second mark."
+},
+{
+"id": 2135,
+"section": "Famous Poets POV",
+"poet": "Lucas Jones",
+"text": "Lucas Jones: Write a poem that imagines the future life of someone you lost touch with, wishing them well in concrete, gentle images."
+},
+{
+"id": 2136,
+"section": "Famous Poets POV",
+"poet": "Lucas Jones",
+"text": "Lucas Jones: Write a poem with stage directions in brackets (look away, pause, smile) that are part of the meaning, not just performance notes."
+},
+{
+"id": 2137,
+"section": "Famous Poets POV",
+"poet": "Lucas Jones",
+"text": "Lucas Jones: Write about a voice memo, an old text, or a saved voicemail, and let the poem unfold as if you are replaying it."
+},
+{
+"id": 2138,
+"section": "Famous Poets POV",
+"poet": "Lucas Jones",
+"text": "Lucas Jones: Write a poem that whispers its biggest line instead of shouting it, and build every line before it to earn that quiet."
+},
+{
+"id": 2139,
+"section": "Famous Poets POV",
+"poet": "Lucas Jones",
+"text": "Lucas Jones: Write a poem about men and softness, describing a moment of tenderness between two male friends or a father and son."
+},
+{
+"id": 2140,
+"section": "Famous Poets POV",
+"poet": "Lucas Jones",
+"text": "Lucas Jones: Write a poem that ends with the speaker looking up from the page or screen and saying one direct sentence to the audience."
+},
+{
+"id": 2141,
+"section": "Famous Poets POV",
+"poet": "Whitney Hanson",
+"text": "Whitney Hanson: Write a poem of no more than six lines that delivers a hard truth about a past relationship in the final line."
+},
+{
+"id": 2142,
+"section": "Famous Poets POV",
+"poet": "Whitney Hanson",
+"text": "Whitney Hanson: Write a poem that begins \"I used to think\" and ends with what you know now, in under fifty words."
+},
+{
+"id": 2143,
+"section": "Famous Poets POV",
+"poet": "Whitney Hanson",
+"text": "Whitney Hanson: Write a confessional poem about a habit you are ashamed of, stated plainly without trying to sound pretty."
+},
+{
+"id": 2144,
+"section": "Famous Poets POV",
+"poet": "Whitney Hanson",
+"text": "Whitney Hanson: Write a poem to someone who hurt you that is only three sentences long, with each sentence on its own line."
+},
+{
+"id": 2145,
+"section": "Famous Poets POV",
+"poet": "Whitney Hanson",
+"text": "Whitney Hanson: Write a poem about home (a childhood house, a hometown, a person) that ends on a single image you can hold in your palm."
+},
+{
+"id": 2146,
+"section": "Famous Poets POV",
+"poet": "Whitney Hanson",
+"text": "Whitney Hanson: Write a short poem about choosing yourself for the first time, using one everyday action as the metaphor."
+},
+{
+"id": 2147,
+"section": "Famous Poets POV",
+"poet": "Whitney Hanson",
+"text": "Whitney Hanson: Write a poem about the version of you who survived, addressing her or him with blunt, grateful love."
+},
+{
+"id": 2148,
+"section": "Famous Poets POV",
+"poet": "Whitney Hanson",
+"text": "Whitney Hanson: Write a poem using only questions, no more than eight lines, that adds up to a confession."
+},
+{
+"id": 2149,
+"section": "Famous Poets POV",
+"poet": "Whitney Hanson",
+"text": "Whitney Hanson: Write a poem that could fit on an index card about the moment you realized someone was not coming back."
+},
+{
+"id": 2150,
+"section": "Famous Poets POV",
+"poet": "Whitney Hanson",
+"text": "Whitney Hanson: Write a poem where the title does half the work and the body is only two lines long."
+},
+{
+"id": 2151,
+"section": "Famous Poets POV",
+"poet": "Elizabeth Bishop",
+"text": "Elizabeth Bishop: Write a poem that describes a single animal (a fish, a moose, a sandpiper) with such meticulous, patient detail that the emotion arrives only through observation."
+},
+{
+"id": 2152,
+"section": "Famous Poets POV",
+"poet": "Elizabeth Bishop",
+"text": "Elizabeth Bishop: Write a villanelle about losing small things that slowly reveals you are writing about losing a person, without ever saying so outright."
+},
+{
+"id": 2153,
+"section": "Famous Poets POV",
+"poet": "Elizabeth Bishop",
+"text": "Elizabeth Bishop: Write a poem set in a waiting room or gas station, and let one tiny detail (a doily, a magazine) trigger a sudden shift in self-awareness."
+},
+{
+"id": 2154,
+"section": "Famous Poets POV",
+"poet": "Elizabeth Bishop",
+"text": "Elizabeth Bishop: Write a poem about a map or a landscape seen from a distance, using precise geographic language and restrained feeling."
+},
+{
+"id": 2155,
+"section": "Famous Poets POV",
+"poet": "Elizabeth Bishop",
+"text": "Elizabeth Bishop: Write a travel poem that questions why you traveled at all, with exact sensory images of one foreign place."
+},
+{
+"id": 2156,
+"section": "Famous Poets POV",
+"poet": "Elizabeth Bishop",
+"text": "Elizabeth Bishop: Write a poem about a childhood memory told in the calm, almost cool voice of an adult, letting the reader feel what the child could not name."
+},
+{
+"id": 2157,
+"section": "Famous Poets POV",
+"poet": "Elizabeth Bishop",
+"text": "Elizabeth Bishop: Write a sestina using six ordinary household words (kettle, stove, almanac, tears, house, grandmother, or six of your own), and let the repetition build quiet sorrow."
+},
+{
+"id": 2158,
+"section": "Famous Poets POV",
+"poet": "Elizabeth Bishop",
+"text": "Elizabeth Bishop: Write a poem of exact observation about a Seattle fish market or ferry dock, with no direct statement of feeling until one restrained line near the end."
+},
+{
+"id": 2159,
+"section": "Famous Poets POV",
+"poet": "Elizabeth Bishop",
+"text": "Elizabeth Bishop: Write a poem in which you correct your own description as you go (\"no, not blue, more like…\"), showing the work of seeing accurately."
+},
+{
+"id": 2160,
+"section": "Famous Poets POV",
+"poet": "Elizabeth Bishop",
+"text": "Elizabeth Bishop: Write a poem that ends with a small act of release or letting go, stated in one modest, almost understated line."
+},
+{
+"id": 2161,
+"section": "Famous Poets POV",
+"poet": "James Baldwin",
+"text": "James Baldwin: Write a poem that argues with your country the way you would argue with a brother you love, with both fury and intimacy in every stanza."
+},
+{
+"id": 2162,
+"section": "Famous Poets POV",
+"poet": "James Baldwin",
+"text": "James Baldwin: Write a poem in long, essayistic sentences that build a moral case, then break into one short line of pure feeling."
+},
+{
+"id": 2163,
+"section": "Famous Poets POV",
+"poet": "James Baldwin",
+"text": "James Baldwin: Write a poem about a church, a pulpit, or a sermon you remember, and turn the preacher's rhythm toward your own truth."
+},
+{
+"id": 2164,
+"section": "Famous Poets POV",
+"poet": "James Baldwin",
+"text": "James Baldwin: Write a letter-poem to a young relative explaining what the world will try to make them believe about themselves, and what is actually true."
+},
+{
+"id": 2165,
+"section": "Famous Poets POV",
+"poet": "James Baldwin",
+"text": "James Baldwin: Write a poem about love as a hard, demanding force, not a comfort, and show it doing difficult work between two people."
+},
+{
+"id": 2166,
+"section": "Famous Poets POV",
+"poet": "James Baldwin",
+"text": "James Baldwin: Write a poem set in a place of exile (another city, another country, a room far from home) that sees home more clearly from far away."
+},
+{
+"id": 2167,
+"section": "Famous Poets POV",
+"poet": "James Baldwin",
+"text": "James Baldwin: Write a poem that names one lie your society tells, then spends every line dismantling it with specific evidence from ordinary life."
+},
+{
+"id": 2168,
+"section": "Famous Poets POV",
+"poet": "James Baldwin",
+"text": "James Baldwin: Write a poem that holds both rage and tenderness toward the same person in the same sentence."
+},
+{
+"id": 2169,
+"section": "Famous Poets POV",
+"poet": "James Baldwin",
+"text": "James Baldwin: Write a poem about the music that saved you (gospel, blues, jazz), describing exactly how a single note entered your body."
+},
+{
+"id": 2170,
+"section": "Famous Poets POV",
+"poet": "James Baldwin",
+"text": "James Baldwin: Write a poem that ends with a call to responsibility, stated as an invitation rather than an accusation."
+},
+{
+"id": 2171,
+"section": "Famous Poets POV",
+"poet": "Nikki Giovanni",
+"text": "Nikki Giovanni: Write a poem celebrating your own Black or cultural heritage with unapologetic pride, using vernacular phrasing and lowercase lines."
+},
+{
+"id": 2172,
+"section": "Famous Poets POV",
+"poet": "Nikki Giovanni",
+"text": "Nikki Giovanni: Write a poem about your childhood that insists it was full of love and joy, even if outsiders would only see hardship."
+},
+{
+"id": 2173,
+"section": "Famous Poets POV",
+"poet": "Nikki Giovanni",
+"text": "Nikki Giovanni: Write a poem that brags about yourself in mythic, outrageous terms, as if you built the pyramids and named the stars."
+},
+{
+"id": 2174,
+"section": "Famous Poets POV",
+"poet": "Nikki Giovanni",
+"text": "Nikki Giovanni: Write a poem with no punctuation and lots of slashes or spacing, letting the rhythm of speech carry the meaning."
+},
+{
+"id": 2175,
+"section": "Famous Poets POV",
+"poet": "Nikki Giovanni",
+"text": "Nikki Giovanni: Write a love poem that is sexy, funny, and political all at once, set in an ordinary place like a kitchen or a car."
+},
+{
+"id": 2176,
+"section": "Famous Poets POV",
+"poet": "Nikki Giovanni",
+"text": "Nikki Giovanni: Write a poem addressed to a younger generation, telling them which fights to keep fighting and which joys to keep."
+},
+{
+"id": 2177,
+"section": "Famous Poets POV",
+"poet": "Nikki Giovanni",
+"text": "Nikki Giovanni: Write a poem about a hero from your community (a grandmother, a neighbor, an activist) told with fierce affection."
+},
+{
+"id": 2178,
+"section": "Famous Poets POV",
+"poet": "Nikki Giovanni",
+"text": "Nikki Giovanni: Write a poem that answers a stereotype directly and wittily, turning the insult into a crown."
+},
+{
+"id": 2179,
+"section": "Famous Poets POV",
+"poet": "Nikki Giovanni",
+"text": "Nikki Giovanni: Write a poem about space or the future that imagines your people thriving among the stars."
+},
+{
+"id": 2180,
+"section": "Famous Poets POV",
+"poet": "Nikki Giovanni",
+"text": "Nikki Giovanni: Write a poem that ends with a short, defiant declaration of who you are, in one or two lines."
+},
+{
+"id": 2181,
+"section": "Famous Poets POV",
+"poet": "Maggie Smith",
+"text": "Maggie Smith: Write a poem that admits the world is at least half terrible, then gives a child (or your younger self) one concrete reason it could still be beautiful."
+},
+{
+"id": 2182,
+"section": "Famous Poets POV",
+"poet": "Maggie Smith",
+"text": "Maggie Smith: Write a poem framed as a real estate listing for your life, describing its \"good bones\" and its damage honestly."
+},
+{
+"id": 2183,
+"section": "Famous Poets POV",
+"poet": "Maggie Smith",
+"text": "Maggie Smith: Write a poem made of short, numbered \"keep moving\" notes to yourself after a loss or ending."
+},
+{
+"id": 2184,
+"section": "Famous Poets POV",
+"poet": "Maggie Smith",
+"text": "Maggie Smith: Write a poem about motherhood or caregiving that holds both exhaustion and wonder in the same image."
+},
+{
+"id": 2185,
+"section": "Famous Poets POV",
+"poet": "Maggie Smith",
+"text": "Maggie Smith: Write a poem that begins with a fairy-tale image (a forest, a wolf, a tower) and turns it toward your actual life."
+},
+{
+"id": 2186,
+"section": "Famous Poets POV",
+"poet": "Maggie Smith",
+"text": "Maggie Smith: Write a poem about divorce, breakup, or starting over that names one small thing you get to keep."
+},
+{
+"id": 2187,
+"section": "Famous Poets POV",
+"poet": "Maggie Smith",
+"text": "Maggie Smith: Write a poem that answers a child's question honestly, even when the honest answer is \"I don't know.\""
+},
+{
+"id": 2188,
+"section": "Famous Poets POV",
+"poet": "Maggie Smith",
+"text": "Maggie Smith: Write a poem about your house at night, describing each room and what it remembers."
+},
+{
+"id": 2189,
+"section": "Famous Poets POV",
+"poet": "Maggie Smith",
+"text": "Maggie Smith: Write a poem of hope that refuses to lie, using one hard fact and one soft fact side by side."
+},
+{
+"id": 2190,
+"section": "Famous Poets POV",
+"poet": "Maggie Smith",
+"text": "Maggie Smith: Write a poem that ends with an instruction to yourself that is both gentle and stern."
+},
+{
+"id": 2191,
+"section": "Famous Poets POV",
+"poet": "Tracy K. Smith",
+"text": "Tracy K. Smith: Write a poem that moves from a domestic moment (washing dishes, tucking in a child) out to the scale of galaxies and back again."
+},
+{
+"id": 2192,
+"section": "Famous Poets POV",
+"poet": "Tracy K. Smith",
+"text": "Tracy K. Smith: Write a poem about your father or a parent through the lens of space exploration, telescopes, or science fiction."
+},
+{
+"id": 2193,
+"section": "Famous Poets POV",
+"poet": "Tracy K. Smith",
+"text": "Tracy K. Smith: Write a poem that imagines God, the universe, or the afterlife as a vast, quiet place where ordinary people keep going about their business."
+},
+{
+"id": 2194,
+"section": "Famous Poets POV",
+"poet": "Tracy K. Smith",
+"text": "Tracy K. Smith: Write an erasure poem from a historical document (a letter, a law, a declaration), revealing the voices hidden inside it."
+},
+{
+"id": 2195,
+"section": "Famous Poets POV",
+"poet": "Tracy K. Smith",
+"text": "Tracy K. Smith: Write a poem in which a song or a pop-culture icon becomes a portal to thinking about time and mortality."
+},
+{
+"id": 2196,
+"section": "Famous Poets POV",
+"poet": "Tracy K. Smith",
+"text": "Tracy K. Smith: Write a poem that imagines life on another planet from the point of view of someone homesick for Earth."
+},
+{
+"id": 2197,
+"section": "Famous Poets POV",
+"poet": "Tracy K. Smith",
+"text": "Tracy K. Smith: Write a poem about the dark matter of your own life, the unseen forces that still shape you."
+},
+{
+"id": 2198,
+"section": "Famous Poets POV",
+"poet": "Tracy K. Smith",
+"text": "Tracy K. Smith: Write a poem that uses scientific vocabulary (light-years, entropy, orbit) to describe a love or a loss."
+},
+{
+"id": 2199,
+"section": "Famous Poets POV",
+"poet": "Tracy K. Smith",
+"text": "Tracy K. Smith: Write a poem in which a child asks you about death while the two of you look at the night sky."
+},
+{
+"id": 2200,
+"section": "Famous Poets POV",
+"poet": "Tracy K. Smith",
+"text": "Tracy K. Smith: Write a poem about awe found in something tiny (a bead of water, a cell, a seed), connecting it to the size of the cosmos."
 }
 ]
 };
